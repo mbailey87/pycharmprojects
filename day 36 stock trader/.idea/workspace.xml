@@ -4,37 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c3cb113-7194-4085-983c-cf0ebb7f9ae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/stock-news-extrahard-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/stock-news-extrahard-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/stock-news-extrahard-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/stock-news-extrahard-start/.idea/stock-news-extrahard-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/stock-news-extrahard-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 36 stock trader/stock-news-extrahard-start/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6a43690d-9259-4b2a-9482-5474ebdfdb3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/stock-news-extrahard-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day 37 habit tracker/.idea/day 37 habit tracker.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day 37 habit tracker/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day 38 exercise tracker/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/env.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password+Manager+(End+of+Day+29)/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Password+Manager+(End+of+Day+29)/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 30/Password+Manager+(End+of+Day+29)/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../day 30/Password+Manager+(End+of+Day+29)/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day 35/rain_alert/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day 35/rain_alert/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -54,34 +47,20 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2uHKTDnfxu7wbJWCNJH8JYAaT3v" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2umHBC2WY2M4qwzEXAVgTOoxr5O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.errors.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/MatthewBailey/PycharmProjects/day 30"
+    "last_opened_file_path": "C:/Users/MatthewBailey/PycharmProjects/day 36 stock trader"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\MatthewBailey\PycharmProjects\day 30" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\MatthewBailey\PycharmProjects\day 30" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,11 +71,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2c3cb113-7194-4085-983c-cf0ebb7f9ae6" name="Changes" comment="" />
-      <created>1741900064923</created>
+      <changelist id="6a43690d-9259-4b2a-9482-5474ebdfdb3f" name="Changes" comment="" />
+      <created>1742846691516</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1741900064923</updated>
+      <updated>1742846691516</updated>
     </task>
     <servers />
   </component>
