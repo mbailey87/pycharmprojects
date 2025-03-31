@@ -2,6 +2,10 @@ import requests
 from pprint import pprint
 import os
 from requests.auth import HTTPBasicAuth
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 SHEETY_URL = 'https://api.sheety.co/1947475f6fc6d6356a65c37b04a1895b/flightDeals/prices'
 
@@ -13,7 +17,8 @@ class DataManager:
         self.user = os.environ.get('SHEETYUSERNAME')
         self.basic = HTTPBasicAuth(username=self.user, password=self.token)
         self.destination_data = {}
-
+        print(self.token)
+        print(self.user)
     def get_destination_data(self):
         response = requests.get(url=SHEETY_URL, auth=self.basic)
         response.raise_for_status()
@@ -30,4 +35,5 @@ class DataManager:
             }
             update_iata = requests.put(url=f'{SHEETY_URL}/{city['id']}', json=new_data, auth=self.basic)
             update_iata.raise_for_status()
-            print(update_iata.text)
+            print(update_iata)
+

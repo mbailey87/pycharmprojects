@@ -5,24 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a43690d-9259-4b2a-9482-5474ebdfdb3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/stock-news-extrahard-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock-news-extrahard-start/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 37 habit tracker/.idea/day 37 habit tracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 37 habit tracker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 38 exercise tracker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/env.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day 30/Password+Manager+(End+of+Day+29)/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../day 30/Password+Manager+(End+of+Day+29)/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day 35/rain_alert/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day 35/rain_alert/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 39 flight finder/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 46 spotify playlist/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day 46 spotify playlist/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day 30/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 39 flight finder/.idea/runConfigurations/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/data_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/env.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/flight_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/flight_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/flight_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day 39 flight finder/flight-deals-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +45,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/MatthewBailey/PycharmProjects/day 36 stock trader"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MatthewBailey/PycharmProjects/day 45 beautiful soup&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
