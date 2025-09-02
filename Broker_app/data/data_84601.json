@@ -1,0 +1,2554 @@
+[
+    {
+        "id": "3296-W-1570-N,-Provo,-UT-84601",
+        "formattedAddress": "3296 W 1570 N, Provo, UT 84601",
+        "addressLine1": "3296 W 1570 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.2532691,
+        "longitude": -111.7161758,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2675,
+        "lotSize": 4356,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 40
+        },
+        "status": "Active",
+        "price": 627900,
+        "listingType": "Standard",
+        "listedDate": "2025-01-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-05T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.558Z",
+        "daysOnMarket": 145,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2057640",
+        "listingAgent": {
+            "name": "C Terry Clark",
+            "phone": "8015500903"
+        },
+        "listingOffice": {
+            "name": "Ivory Homes, LTD",
+            "phone": "8017477000"
+        },
+        "history": {
+            "2025-01-09": {
+                "event": "Sale Listing",
+                "price": 627900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 145
+            }
+        }
+    },
+    {
+        "id": "78-S-2120-W,-Provo,-UT-84601",
+        "formattedAddress": "78 S 2120 W, Provo, UT 84601",
+        "addressLine1": "78 S 2120 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.232655,
+        "longitude": -111.696472,
+        "propertyType": "Land",
+        "lotSize": 8276,
+        "status": "Active",
+        "price": 185000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-17T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.156Z",
+        "daysOnMarket": 106,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2064891",
+        "listingAgent": {
+            "name": "Cassidy Cabanzo",
+            "phone": "8013806506",
+            "email": "cabanzorealestate@gmail.com",
+            "website": "https://sondergrouputah.com/"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (South Valley)",
+            "phone": "8017277950",
+            "website": "www.equityhotproperties.com"
+        },
+        "history": {
+            "2025-02-17": {
+                "event": "Sale Listing",
+                "price": 185000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 106
+            }
+        }
+    },
+    {
+        "id": "577-N-100-W,-Apt-202,-Provo,-UT-84601",
+        "formattedAddress": "577 N 100 W, Apt 202, Provo, UT 84601",
+        "addressLine1": "577 N 100 W",
+        "addressLine2": "Apt 202",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.241346,
+        "longitude": -111.661055,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 836,
+        "lotSize": 871,
+        "yearBuilt": 1995,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 335000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-30T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.138Z",
+        "daysOnMarket": 96,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2013924",
+        "listingAgent": {
+            "name": "Dix C. Densley"
+        },
+        "listingOffice": {
+            "name": "Summit Sotheby's International Realty",
+            "phone": "8014672100",
+            "email": "online.leads@sothebysrealty.com",
+            "website": "https://www.sothebysrealty.com/summitsir"
+        },
+        "history": {
+            "2024-07-26": {
+                "event": "Sale Listing",
+                "price": 335000,
+                "listingType": "Standard",
+                "listedDate": "2024-07-26T00:00:00.000Z",
+                "removedDate": "2024-10-10T00:00:00.000Z",
+                "daysOnMarket": 76
+            },
+            "2025-02-27": {
+                "event": "Sale Listing",
+                "price": 335000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 96
+            }
+        }
+    },
+    {
+        "id": "1042-W-500-S,-Provo,-UT-84601",
+        "formattedAddress": "1042 W 500 S, Provo, UT 84601",
+        "addressLine1": "1042 W 500 S",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.227403,
+        "longitude": -111.677204,
+        "propertyType": "Townhouse",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 1314,
+        "lotSize": 1307,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 180
+        },
+        "status": "Active",
+        "price": 349000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-02T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.120Z",
+        "daysOnMarket": 94,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067460",
+        "listingAgent": {
+            "name": "Cassidy Cabanzo",
+            "phone": "8013806506",
+            "email": "cabanzorealestate@gmail.com",
+            "website": "https://sondergrouputah.com/"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (South Valley)",
+            "phone": "8017277950",
+            "website": "www.equityhotproperties.com"
+        },
+        "history": {
+            "2025-03-01": {
+                "event": "Sale Listing",
+                "price": 349000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 94
+            }
+        }
+    },
+    {
+        "id": "516-S-Freedom-Blvd,-Provo,-UT-84601",
+        "formattedAddress": "516 S Freedom Blvd, Provo, UT 84601",
+        "addressLine1": "516 S Freedom Blvd",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.22662,
+        "longitude": -111.662765,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 1,
+        "squareFootage": 2500,
+        "lotSize": 8276,
+        "yearBuilt": 1885,
+        "status": "Active",
+        "price": 519000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-10-21T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.111Z",
+        "daysOnMarket": 88,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2068981",
+        "listingAgent": {
+            "name": "Josias Solorzano",
+            "phone": "8012101427",
+            "email": "utahvalleyhomepro@gmail.com",
+            "website": "prescottrealestatepads.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (Utah Valley)",
+            "phone": "8017246656"
+        },
+        "history": {
+            "2025-01-31": {
+                "event": "Sale Listing",
+                "price": 549999,
+                "listingType": "Standard",
+                "listedDate": "2025-01-31T00:00:00.000Z",
+                "removedDate": "2025-02-09T00:00:00.000Z",
+                "daysOnMarket": 9
+            },
+            "2025-03-07": {
+                "event": "Sale Listing",
+                "price": 519000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 88
+            }
+        }
+    },
+    {
+        "id": "283-S-1050-W,-Apt-91,-Provo,-UT-84601",
+        "formattedAddress": "283 S 1050 W, Apt 91, Provo, UT 84601",
+        "addressLine1": "283 S 1050 W",
+        "addressLine2": "Apt 91",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.230106,
+        "longitude": -111.676664,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1180,
+        "lotSize": 871,
+        "yearBuilt": 1997,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 318900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-10-21T06:53:14.597Z",
+        "lastSeenDate": "2025-06-02T12:56:42.695Z",
+        "daysOnMarket": 84,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069390",
+        "listingAgent": {
+            "name": "Raquel Lee",
+            "phone": "8017598883",
+            "email": "raquelsellhomes@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Wise Choice Real Estate - Central",
+            "phone": "8018491257"
+        },
+        "history": {
+            "2025-03-11": {
+                "event": "Sale Listing",
+                "price": 318900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 84
+            }
+        }
+    },
+    {
+        "id": "1351-Westbridge-Cir,-Provo,-UT-84601",
+        "formattedAddress": "1351 Westbridge Cir, Provo, UT 84601",
+        "addressLine1": "1351 Westbridge Cir",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.229613,
+        "longitude": -111.683053,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1800,
+        "lotSize": 1307,
+        "yearBuilt": 2008,
+        "hoa": {
+            "fee": 225
+        },
+        "status": "Active",
+        "price": 414000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-09T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.686Z",
+        "daysOnMarket": 87,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069066",
+        "listingAgent": {
+            "name": "Clayton Cundy",
+            "phone": "8017874114",
+            "email": "cundyc7@hotmail.com"
+        },
+        "listingOffice": {
+            "name": "JC Realty",
+            "phone": "8017874114",
+            "email": "judycundy8@gmail.com"
+        },
+        "history": {
+            "2025-03-08": {
+                "event": "Sale Listing",
+                "price": 414000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 87
+            }
+        }
+    },
+    {
+        "id": "1421-W-Arthur-Dr,-Provo,-UT-84601",
+        "formattedAddress": "1421 W Arthur Dr, Provo, UT 84601",
+        "addressLine1": "1421 W Arthur Dr",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.243932,
+        "longitude": -111.683287,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 833,
+        "lotSize": 436,
+        "yearBuilt": 1970,
+        "hoa": {
+            "fee": 500
+        },
+        "status": "Active",
+        "price": 195000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-11T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.680Z",
+        "daysOnMarket": 85,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069219",
+        "listingAgent": {
+            "name": "Natalie Bethers-southwick",
+            "phone": "8015580364",
+            "email": "natalie@aspencreekrealty.com",
+            "website": "http://www.aspencreekrealty.com"
+        },
+        "listingOffice": {
+            "name": "Aspen Creek Realty",
+            "phone": "8014069840",
+            "email": "natalie@aspencreekrealty.com"
+        },
+        "history": {
+            "2025-03-10": {
+                "event": "Sale Listing",
+                "price": 195000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 85
+            }
+        }
+    },
+    {
+        "id": "639-N-University-Ave,-Apt-10,-Provo,-UT-84601",
+        "formattedAddress": "639 N University Ave, Apt 10, Provo, UT 84601",
+        "addressLine1": "639 N University Ave",
+        "addressLine2": "Apt 10",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.242186,
+        "longitude": -111.659454,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 957,
+        "lotSize": 436,
+        "yearBuilt": 1981,
+        "hoa": {
+            "fee": 185
+        },
+        "status": "Active",
+        "price": 315000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.614Z",
+        "daysOnMarket": 81,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2070327",
+        "listingAgent": {
+            "name": "R. Scott Stone",
+            "phone": "8013732444",
+            "email": "scott@utahsrealtor.com",
+            "website": "http://www.utahsrealtor.com"
+        },
+        "listingOffice": {
+            "name": "Keystone Real Estate LLC",
+            "phone": "8018302444"
+        },
+        "history": {
+            "2025-03-14": {
+                "event": "Sale Listing",
+                "price": 315000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 81
+            }
+        }
+    },
+    {
+        "id": "770-W-700-N,-Provo,-UT-84601",
+        "formattedAddress": "770 W 700 N, Provo, UT 84601",
+        "addressLine1": "770 W 700 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.24353,
+        "longitude": -111.672501,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1590,
+        "lotSize": 6534,
+        "yearBuilt": 1943,
+        "status": "Active",
+        "price": 470000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-18T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.608Z",
+        "daysOnMarket": 78,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2070751",
+        "listingAgent": {
+            "name": "Shon Hudson",
+            "phone": "8018646696"
+        },
+        "listingOffice": {
+            "name": "Ulrich REALTORS",
+            "phone": "8017336555"
+        },
+        "history": {
+            "2025-03-17": {
+                "event": "Sale Listing",
+                "price": 470000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 78
+            }
+        }
+    },
+    {
+        "id": "556-W-800-N,-Apt-18,-Provo,-UT-84601",
+        "formattedAddress": "556 W 800 N, Apt 18, Provo, UT 84601",
+        "addressLine1": "556 W 800 N",
+        "addressLine2": "Apt 18",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.244667,
+        "longitude": -111.668477,
+        "propertyType": "Townhouse",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 1560,
+        "lotSize": 436,
+        "yearBuilt": 1979,
+        "hoa": {
+            "fee": 140
+        },
+        "status": "Active",
+        "price": 344900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-30T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.602Z",
+        "daysOnMarket": 77,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2071091",
+        "listingAgent": {
+            "name": "Debra Shakespeare",
+            "phone": "8017229996",
+            "email": "debbirox1@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (Utah Valley)",
+            "phone": "8017246656"
+        },
+        "history": {
+            "2025-03-18": {
+                "event": "Sale Listing",
+                "price": 344900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 77
+            }
+        }
+    },
+    {
+        "id": "710-W-100-N,-Provo,-UT-84601",
+        "formattedAddress": "710 W 100 N, Provo, UT 84601",
+        "addressLine1": "710 W 100 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.235399,
+        "longitude": -111.671242,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 1920,
+        "lotSize": 4792,
+        "yearBuilt": 1946,
+        "status": "Active",
+        "price": 610000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-03T14:47:11.765Z",
+        "lastSeenDate": "2025-06-02T12:53:25.329Z",
+        "daysOnMarket": 74,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2071822",
+        "listingAgent": {
+            "name": "M. Jake Breen",
+            "phone": "8014141852",
+            "email": "jakebreen@gmail.com",
+            "website": "http://utahcribs.com"
+        },
+        "listingOffice": {
+            "name": "Dijjit, LC",
+            "phone": "8015428855",
+            "email": "ddesso@utahcribs.com",
+            "website": "dijjit.com"
+        },
+        "history": {
+            "2024-08-14": {
+                "event": "Sale Listing",
+                "price": 559900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-14T00:00:00.000Z",
+                "removedDate": "2024-10-25T00:00:00.000Z",
+                "daysOnMarket": 72
+            },
+            "2025-03-21": {
+                "event": "Sale Listing",
+                "price": 610000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 74
+            }
+        }
+    },
+    {
+        "id": "1744-W-150-N,-Provo,-UT-84601",
+        "formattedAddress": "1744 W 150 N, Provo, UT 84601",
+        "addressLine1": "1744 W 150 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.236029,
+        "longitude": -111.689749,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 891,
+        "lotSize": 6534,
+        "yearBuilt": 1943,
+        "status": "Active",
+        "price": 388000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-20T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:53:25.288Z",
+        "daysOnMarket": 76,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2071276",
+        "listingAgent": {
+            "name": "Mark Robinson",
+            "phone": "8012666275",
+            "email": "266mark@gmail.com",
+            "website": "http://www.266mark.com"
+        },
+        "listingOffice": {
+            "name": "Realty Brokers Robinson & Associates",
+            "phone": "8012666275",
+            "email": "266mark@gmail.com",
+            "website": "http://www.mark.robinson.net"
+        },
+        "history": {
+            "2025-03-19": {
+                "event": "Sale Listing",
+                "price": 388000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 76
+            }
+        }
+    },
+    {
+        "id": "577-N-100-W,-Apt-102,-Provo,-UT-84601",
+        "formattedAddress": "577 N 100 W, Apt 102, Provo, UT 84601",
+        "addressLine1": "577 N 100 W",
+        "addressLine2": "Apt 102",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.241346,
+        "longitude": -111.661055,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 836,
+        "lotSize": 871,
+        "yearBuilt": 1995,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 315000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-10-28T06:42:08.624Z",
+        "lastSeenDate": "2025-06-02T12:53:25.268Z",
+        "daysOnMarket": 75,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2071664",
+        "listingAgent": {
+            "name": "Kyle Kelley",
+            "phone": "8012241234",
+            "email": "kylezkelley@gmail.com",
+            "website": "http://www.c21bushnell.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Bushnell",
+            "phone": "8012241234",
+            "email": "mikel.bushnell@gmail.com",
+            "website": "http://century21bushnell.com/"
+        },
+        "history": {
+            "2025-03-20": {
+                "event": "Sale Listing",
+                "price": 315000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 75
+            }
+        }
+    },
+    {
+        "id": "3140-W-1670-N,-Provo,-UT-84601",
+        "formattedAddress": "3140 W 1670 N, Provo, UT 84601",
+        "addressLine1": "3140 W 1670 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.255627,
+        "longitude": -111.714505,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "squareFootage": 2674,
+        "lotSize": 5227,
+        "yearBuilt": 2019,
+        "hoa": {
+            "fee": 30
+        },
+        "status": "Active",
+        "price": 644500,
+        "listingType": "Standard",
+        "listedDate": "2025-03-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-08-31T15:43:02.320Z",
+        "lastSeenDate": "2025-06-02T12:53:25.266Z",
+        "daysOnMarket": 75,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2071702",
+        "listingAgent": {
+            "name": "Audrey Mathison",
+            "phone": "8018670611",
+            "email": "tuellera@hotmail.com"
+        },
+        "listingOffice": {
+            "name": "Sky Realty Company",
+            "phone": "8017043445",
+            "email": "bj@skyrealtyco.com",
+            "website": "www.skyrealtyco.com"
+        },
+        "history": {
+            "2024-10-18": {
+                "event": "Sale Listing",
+                "price": 648000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-18T00:00:00.000Z",
+                "removedDate": "2025-01-19T00:00:00.000Z",
+                "daysOnMarket": 93
+            },
+            "2025-03-20": {
+                "event": "Sale Listing",
+                "price": 644500,
+                "listingType": "Standard",
+                "listedDate": "2025-03-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 75
+            }
+        }
+    },
+    {
+        "id": "223-N-2520-W,-Provo,-UT-84601",
+        "formattedAddress": "223 N 2520 W, Provo, UT 84601",
+        "addressLine1": "223 N 2520 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.236313,
+        "longitude": -111.703664,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 4000,
+        "lotSize": 17424,
+        "yearBuilt": 1999,
+        "status": "Active",
+        "price": 625000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-12T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:53:25.256Z",
+        "daysOnMarket": 69,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2072731",
+        "listingAgent": {
+            "name": "Beckie Herring",
+            "phone": "8014271502"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate - Prosper Group",
+            "phone": "3853367355",
+            "email": "thecolletteteam@gmail.com",
+            "website": "www.thecolletteteam.com"
+        },
+        "history": {
+            "2024-08-09": {
+                "event": "Sale Listing",
+                "price": 675000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-09T00:00:00.000Z",
+                "removedDate": "2024-11-08T00:00:00.000Z",
+                "daysOnMarket": 91
+            },
+            "2025-03-26": {
+                "event": "Sale Listing",
+                "price": 625000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 69
+            }
+        }
+    },
+    {
+        "id": "491-S-Freedom-Blvd,-Apt-104,-Provo,-UT-84601",
+        "formattedAddress": "491 S Freedom Blvd, Apt 104, Provo, UT 84601",
+        "addressLine1": "491 S Freedom Blvd",
+        "addressLine2": "Apt 104",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.227251,
+        "longitude": -111.661952,
+        "propertyType": "Multi-Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 2200,
+        "lotSize": 1307,
+        "yearBuilt": 2014,
+        "hoa": {
+            "fee": 225
+        },
+        "status": "Active",
+        "price": 729900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-21T20:33:39.887Z",
+        "lastSeenDate": "2025-06-02T12:51:52.914Z",
+        "daysOnMarket": 67,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2073649",
+        "listingAgent": {
+            "name": "Jessica Williams",
+            "phone": "8013807676",
+            "email": "jessica@jwrealestatepro.com",
+            "website": "http://www.presidioutahrealestate.com"
+        },
+        "listingOffice": {
+            "name": "Presidio Real Estate Company",
+            "phone": "8012516683",
+            "email": "utahrebroker@gmail.com",
+            "website": "www.presidioutahre.com"
+        },
+        "history": {
+            "2025-03-28": {
+                "event": "Sale Listing",
+                "price": 729900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 67
+            }
+        }
+    },
+    {
+        "id": "1423-Arthur-Dr,-Provo,-UT-84601",
+        "formattedAddress": "1423 Arthur Dr, Provo, UT 84601",
+        "addressLine1": "1423 Arthur Dr",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.243881,
+        "longitude": -111.683275,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 1100,
+        "lotSize": 436,
+        "yearBuilt": 1970,
+        "hoa": {
+            "fee": 500
+        },
+        "status": "Active",
+        "price": 205000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-29T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:51:52.849Z",
+        "daysOnMarket": 67,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2073665",
+        "listingAgent": {
+            "name": "Patricia Magoffin",
+            "phone": "8016694583"
+        },
+        "listingOffice": {
+            "name": "Wilson Realty Group",
+            "phone": "8016914843"
+        },
+        "history": {
+            "2025-03-28": {
+                "event": "Sale Listing",
+                "price": 205000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 67
+            }
+        }
+    },
+    {
+        "id": "870-W-300-S,-Provo,-UT-84601",
+        "formattedAddress": "870 W 300 S, Provo, UT 84601",
+        "addressLine1": "870 W 300 S",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.229986,
+        "longitude": -111.673896,
+        "propertyType": "Multi-Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 2181,
+        "lotSize": 9583,
+        "yearBuilt": 1885,
+        "status": "Active",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-21T18:59:33.161Z",
+        "lastSeenDate": "2025-06-02T12:38:13.776Z",
+        "daysOnMarket": 59,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2075425",
+        "listingAgent": {
+            "name": "Thayne Bailey",
+            "phone": "8018028899",
+            "email": "thaynebailey247@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Essential Real Estate",
+            "phone": "8013192975"
+        },
+        "history": {
+            "2025-04-05": {
+                "event": "Sale Listing",
+                "price": 550000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 59
+            }
+        }
+    },
+    {
+        "id": "1224-S-760-W,-Provo,-UT-84601",
+        "formattedAddress": "1224 S 760 W, Provo, UT 84601",
+        "addressLine1": "1224 S 760 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.21724,
+        "longitude": -111.672367,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 1968,
+        "lotSize": 8276,
+        "yearBuilt": 1978,
+        "status": "Active",
+        "price": 529900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-10T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:38:13.703Z",
+        "daysOnMarket": 55,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2076307",
+        "listingAgent": {
+            "name": "Riley Brandner",
+            "phone": "8018096930"
+        },
+        "listingOffice": {
+            "name": "Woodley Real Estate",
+            "phone": "8018555900",
+            "email": "eric@woodley.com"
+        },
+        "history": {
+            "2025-04-09": {
+                "event": "Sale Listing",
+                "price": 529900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 55
+            }
+        }
+    },
+    {
+        "id": "1730-W-50-N,-Provo,-UT-84601",
+        "formattedAddress": "1730 W 50 N, Provo, UT 84601",
+        "addressLine1": "1730 W 50 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.234871,
+        "longitude": -111.689557,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 984,
+        "lotSize": 6534,
+        "yearBuilt": 1943,
+        "status": "Active",
+        "price": 365000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-08-31T08:34:47.122Z",
+        "lastSeenDate": "2025-06-02T12:38:13.686Z",
+        "daysOnMarket": 54,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2076379",
+        "listingAgent": {
+            "name": "Rene Romero",
+            "phone": "8014273762",
+            "email": "reneromero7@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Realtypath LLC - International",
+            "phone": "8016363028"
+        },
+        "history": {
+            "2025-04-10": {
+                "event": "Sale Listing",
+                "price": 365000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 54
+            }
+        }
+    },
+    {
+        "id": "977-S-1480-W,-Provo,-UT-84601",
+        "formattedAddress": "977 S 1480 W, Provo, UT 84601",
+        "addressLine1": "977 S 1480 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.220815,
+        "longitude": -111.684771,
+        "propertyType": "Single Family",
+        "bedrooms": 7,
+        "bathrooms": 4,
+        "squareFootage": 5082,
+        "lotSize": 9148,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 30
+        },
+        "status": "Active",
+        "price": 885000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-11T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:36:49.296Z",
+        "daysOnMarket": 53,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2076729",
+        "listingAgent": {
+            "name": "Tema Laussen",
+            "phone": "8016912500",
+            "email": "tema.laussen@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Realtypath LLC - Home and Family",
+            "phone": "8012569595"
+        },
+        "history": {
+            "2025-04-11": {
+                "event": "Sale Listing",
+                "price": 885000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 53
+            }
+        }
+    },
+    {
+        "id": "136-W-400-N,-Apt-26,-Provo,-UT-84601",
+        "formattedAddress": "136 W 400 N, Apt 26, Provo, UT 84601",
+        "addressLine1": "136 W 400 N",
+        "addressLine2": "Apt 26",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.239395,
+        "longitude": -111.661079,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 768,
+        "lotSize": 784,
+        "yearBuilt": 1993,
+        "hoa": {
+            "fee": 185
+        },
+        "status": "Active",
+        "price": 300000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-05-24T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:36:49.251Z",
+        "daysOnMarket": 49,
+        "mlsName": "ParkCity",
+        "mlsNumber": "12501525",
+        "listingAgent": {
+            "name": "Jacquelin Perry",
+            "phone": "3054582577",
+            "email": "jackimpabon@gmail.com",
+            "website": "https://jacquelinperry.com/"
+        },
+        "listingOffice": {
+            "name": "Summit Sotheby's - Sugarhouse",
+            "phone": "8014672100",
+            "email": "thomas.wright@sothebysrealty.com"
+        },
+        "history": {
+            "2025-04-15": {
+                "event": "Sale Listing",
+                "price": 300000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 49
+            }
+        }
+    },
+    {
+        "id": "1163-W-820-N,-Provo,-UT-84601",
+        "formattedAddress": "1163 W 820 N, Provo, UT 84601",
+        "addressLine1": "1163 W 820 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.244187,
+        "longitude": -111.678683,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "squareFootage": 3728,
+        "lotSize": 21780,
+        "yearBuilt": 1966,
+        "status": "Active",
+        "price": 949900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-17T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:36:49.228Z",
+        "daysOnMarket": 48,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2077983",
+        "listingAgent": {
+            "name": "Jennifer Yeo",
+            "phone": "8014270644",
+            "email": "utahrebroker@gmail.com",
+            "website": "www.presidioutahre.com"
+        },
+        "listingOffice": {
+            "name": "Presidio Real Estate Company",
+            "phone": "8012516683",
+            "email": "utahrebroker@gmail.com",
+            "website": "www.presidioutahre.com"
+        },
+        "history": {
+            "2025-04-16": {
+                "event": "Sale Listing",
+                "price": 949900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 48
+            }
+        }
+    },
+    {
+        "id": "361-N-300-W,-Apt-201,-Provo,-UT-84601",
+        "formattedAddress": "361 N 300 W, Apt 201, Provo, UT 84601",
+        "addressLine1": "361 N 300 W",
+        "addressLine2": "Apt 201",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.238445,
+        "longitude": -111.664573,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 890,
+        "lotSize": 436,
+        "yearBuilt": 1985,
+        "hoa": {
+            "fee": 165
+        },
+        "status": "Active",
+        "price": 277900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-06-16T07:39:59.080Z",
+        "lastSeenDate": "2025-06-02T12:36:49.217Z",
+        "daysOnMarket": 48,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2077950",
+        "listingAgent": {
+            "name": "Kimberli Mccann",
+            "phone": "8017856697",
+            "email": "kimm@ranlife.com",
+            "website": "https://www.utahnestseeker.com"
+        },
+        "listingOffice": {
+            "name": "RANLife Real Estate",
+            "phone": "8019153371",
+            "email": "bradyj@ranlife.com",
+            "website": "http://www.ranliferealestate.com"
+        },
+        "history": {
+            "2025-04-16": {
+                "event": "Sale Listing",
+                "price": 277900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 48
+            }
+        }
+    },
+    {
+        "id": "1443-Arthur-Dr,-Provo,-UT-84601",
+        "formattedAddress": "1443 Arthur Dr, Provo, UT 84601",
+        "addressLine1": "1443 Arthur Dr",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.243507,
+        "longitude": -111.683516,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 976,
+        "lotSize": 436,
+        "yearBuilt": 1970,
+        "hoa": {
+            "fee": 500
+        },
+        "status": "Active",
+        "price": 209000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-18T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:35:23.172Z",
+        "daysOnMarket": 46,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2078581",
+        "listingAgent": {
+            "name": "Rachel Benson",
+            "phone": "8016230025"
+        },
+        "listingOffice": {
+            "name": "Realtypath LLC",
+            "phone": "8013865908",
+            "email": "ernad@realtypath.com",
+            "website": "www.realtypath.com"
+        },
+        "history": {
+            "2025-04-18": {
+                "event": "Sale Listing",
+                "price": 209000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 46
+            }
+        }
+    },
+    {
+        "id": "2292-W-440-S,-Provo,-UT-84601",
+        "formattedAddress": "2292 W 440 S, Provo, UT 84601",
+        "addressLine1": "2292 W 440 S",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.228039,
+        "longitude": -111.698324,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2447,
+        "lotSize": 10454,
+        "yearBuilt": 2012,
+        "status": "Active",
+        "price": 670000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-19T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:35:23.166Z",
+        "daysOnMarket": 46,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2078663",
+        "listingAgent": {
+            "name": "Brett Hess",
+            "phone": "8016034576",
+            "email": "brett@redsign.com",
+            "website": "redsign.com"
+        },
+        "listingOffice": {
+            "name": "KW WESTFIELD",
+            "phone": "8018505600",
+            "email": "office@kwwestfield.com",
+            "website": "www.kwwestfield.com"
+        },
+        "history": {
+            "2025-04-18": {
+                "event": "Sale Listing",
+                "price": 670000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 46
+            }
+        }
+    },
+    {
+        "id": "630-N-1100-W,-Provo,-UT-84601",
+        "formattedAddress": "630 N 1100 W, Provo, UT 84601",
+        "addressLine1": "630 N 1100 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.242491,
+        "longitude": -111.67765,
+        "propertyType": "Multi-Family",
+        "bedrooms": 12,
+        "bathrooms": 8,
+        "squareFootage": 4992,
+        "lotSize": 6970,
+        "yearBuilt": 1980,
+        "status": "Active",
+        "price": 1100000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-11-06T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:35:23.147Z",
+        "daysOnMarket": 42,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2079336",
+        "listingAgent": {
+            "name": "Jennifer Grimshaw",
+            "phone": "4352380397",
+            "email": "kim@lancegrouphomes.com"
+        },
+        "listingOffice": {
+            "name": "Bybee & Co Realty, LLC",
+            "phone": "8012101461"
+        },
+        "history": {
+            "2024-11-05": {
+                "event": "Sale Listing",
+                "price": 1099900,
+                "listingType": "Standard",
+                "listedDate": "2024-11-05T00:00:00.000Z",
+                "removedDate": "2025-03-28T00:00:00.000Z",
+                "daysOnMarket": 143
+            },
+            "2025-04-22": {
+                "event": "Sale Listing",
+                "price": 1100000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 42
+            }
+        }
+    },
+    {
+        "id": "682-N-700-W,-Provo,-UT-84601",
+        "formattedAddress": "682 N 700 W, Provo, UT 84601",
+        "addressLine1": "682 N 700 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.242579,
+        "longitude": -111.670864,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2790,
+        "lotSize": 10890,
+        "yearBuilt": 1948,
+        "status": "Active",
+        "price": 519000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-05-18T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:35:23.134Z",
+        "daysOnMarket": 42,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2079204",
+        "listingAgent": {
+            "name": "Parker Barton",
+            "phone": "8017985485"
+        },
+        "listingOffice": {
+            "name": "KW Westfield (Excellence)",
+            "phone": "8018505600"
+        },
+        "history": {
+            "2025-04-22": {
+                "event": "Sale Listing",
+                "price": 519000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 42
+            }
+        }
+    },
+    {
+        "id": "1021-W-100-N,-Provo,-UT-84601",
+        "formattedAddress": "1021 W 100 N, Provo, UT 84601",
+        "addressLine1": "1021 W 100 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.234916,
+        "longitude": -111.676753,
+        "propertyType": "Multi-Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1225,
+        "lotSize": 6534,
+        "yearBuilt": 1956,
+        "status": "Active",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-12-04T00:54:53.614Z",
+        "lastSeenDate": "2025-06-02T12:27:56.667Z",
+        "daysOnMarket": 41,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2079755",
+        "listingAgent": {
+            "name": "Michael Mcphie",
+            "phone": "8015564513",
+            "email": "michael@rightmoveutah.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate - Advantage",
+            "phone": "8015457416",
+            "email": "tony@joinequity-usa.com"
+        },
+        "history": {
+            "2025-04-23": {
+                "event": "Sale Listing",
+                "price": 550000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 41
+            }
+        }
+    },
+    {
+        "id": "661-W-1820-S,-Provo,-UT-84601",
+        "formattedAddress": "661 W 1820 S, Provo, UT 84601",
+        "addressLine1": "661 W 1820 S",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.209167,
+        "longitude": -111.67015,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 3184,
+        "lotSize": 10454,
+        "yearBuilt": 2017,
+        "status": "Active",
+        "price": 699000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-26T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:56.615Z",
+        "daysOnMarket": 39,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080337",
+        "listingAgent": {
+            "name": "Jennifer Call",
+            "phone": "8014717145",
+            "email": "call5jen@gmail.com"
+        },
+        "listingOffice": {
+            "name": "ERA Brokers Consolidated",
+            "phone": "8013410909",
+            "email": "info@erabrokers.com",
+            "website": "https://erabrokers.com"
+        },
+        "history": {
+            "2025-04-25": {
+                "event": "Sale Listing",
+                "price": 699000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 39
+            }
+        }
+    },
+    {
+        "id": "985-S-600-W,-Provo,-UT-84601",
+        "formattedAddress": "985 S 600 W, Provo, UT 84601",
+        "addressLine1": "985 S 600 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.220702,
+        "longitude": -111.669105,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1560,
+        "lotSize": 8276,
+        "yearBuilt": 1972,
+        "status": "Active",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-27T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:56.609Z",
+        "daysOnMarket": 38,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080613",
+        "listingAgent": {
+            "name": "Dustyn Haug",
+            "phone": "8018308513",
+            "email": "tburns@terrawest.com"
+        },
+        "listingOffice": {
+            "name": "KW Westfield (Excellence)",
+            "phone": "8018505600"
+        },
+        "history": {
+            "2025-04-26": {
+                "event": "Sale Listing",
+                "price": 550000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 38
+            }
+        }
+    },
+    {
+        "id": "556-W-800-N,-Apt-15,-Provo,-UT-84601",
+        "formattedAddress": "556 W 800 N, Apt 15, Provo, UT 84601",
+        "addressLine1": "556 W 800 N",
+        "addressLine2": "Apt 15",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.244823,
+        "longitude": -111.668653,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1560,
+        "lotSize": 436,
+        "yearBuilt": 1979,
+        "hoa": {
+            "fee": 140
+        },
+        "status": "Active",
+        "price": 340000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-03-10T08:56:46.668Z",
+        "lastSeenDate": "2025-06-02T12:27:56.598Z",
+        "daysOnMarket": 36,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080667",
+        "listingAgent": {
+            "name": "Brandy Tilo",
+            "phone": "8017094038",
+            "email": "thetiloteam@gmail.com",
+            "website": "http://tiloteam.com"
+        },
+        "listingOffice": {
+            "name": "Utah Real Estate",
+            "phone": "8016733333",
+            "email": "allutahhomes@gmail.com"
+        },
+        "history": {
+            "2025-04-28": {
+                "event": "Sale Listing",
+                "price": 340000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 36
+            }
+        }
+    },
+    {
+        "id": "687-W-Le-Bon-Cir,-Provo,-UT-84601",
+        "formattedAddress": "687 W Le Bon Cir, Provo, UT 84601",
+        "addressLine1": "687 W Le Bon Cir",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.221898,
+        "longitude": -111.671018,
+        "propertyType": "Multi-Family",
+        "bedrooms": 8,
+        "bathrooms": 4,
+        "squareFootage": 3190,
+        "lotSize": 7841,
+        "yearBuilt": 1980,
+        "status": "Active",
+        "price": 850000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-27T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:56.597Z",
+        "daysOnMarket": 38,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080598",
+        "listingAgent": {
+            "name": "Dustyn Haug",
+            "phone": "8018308513",
+            "email": "tburns@terrawest.com"
+        },
+        "listingOffice": {
+            "name": "KW Westfield (Excellence)",
+            "phone": "8018505600"
+        },
+        "history": {
+            "2025-04-26": {
+                "event": "Sale Listing",
+                "price": 850000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 38
+            }
+        }
+    },
+    {
+        "id": "639-N-University-Ave,-Apt-2,-Provo,-UT-84601",
+        "formattedAddress": "639 N University Ave, Apt 2, Provo, UT 84601",
+        "addressLine1": "639 N University Ave",
+        "addressLine2": "Apt 2",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.242189,
+        "longitude": -111.659132,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 980,
+        "lotSize": 436,
+        "yearBuilt": 1981,
+        "hoa": {
+            "fee": 170
+        },
+        "status": "Active",
+        "price": 320000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-05-26T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:52.496Z",
+        "daysOnMarket": 34,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2081402",
+        "listingAgent": {
+            "name": "Samuel Brinton",
+            "phone": "3147078866"
+        },
+        "listingOffice": {
+            "name": "REDFIN CORPORATION",
+            "phone": "8016137062",
+            "email": "kristopher.furrow@redfin.com",
+            "website": "redfin.com"
+        },
+        "history": {
+            "2025-04-30": {
+                "event": "Sale Listing",
+                "price": 320000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 34
+            }
+        }
+    },
+    {
+        "id": "2363-W-960-N,-Provo,-UT-84601",
+        "formattedAddress": "2363 W 960 N, Provo, UT 84601",
+        "addressLine1": "2363 W 960 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.246074,
+        "longitude": -111.700612,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2050,
+        "lotSize": 8276,
+        "yearBuilt": 1997,
+        "status": "Active",
+        "price": 549999,
+        "listingType": "Standard",
+        "listedDate": "2025-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:52.488Z",
+        "daysOnMarket": 33,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2081503",
+        "listingAgent": {
+            "name": "Deborah Daines",
+            "phone": "8018302006"
+        },
+        "listingOffice": {
+            "name": "Lotus Real Estate",
+            "phone": "8018302006"
+        },
+        "history": {
+            "2025-05-01": {
+                "event": "Sale Listing",
+                "price": 549999,
+                "listingType": "Standard",
+                "listedDate": "2025-05-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 33
+            }
+        }
+    },
+    {
+        "id": "916-W-1150-S,-Provo,-UT-84601",
+        "formattedAddress": "916 W 1150 S, Provo, UT 84601",
+        "addressLine1": "916 W 1150 S",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.218976,
+        "longitude": -111.674598,
+        "propertyType": "Single Family",
+        "bedrooms": 7,
+        "bathrooms": 4,
+        "squareFootage": 4838,
+        "lotSize": 10454,
+        "yearBuilt": 1997,
+        "status": "Active",
+        "price": 719900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-27T15:00:03.143Z",
+        "lastSeenDate": "2025-06-02T12:27:52.481Z",
+        "daysOnMarket": 33,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2081594",
+        "listingOffice": {
+            "name": "R and R Realty, LLC",
+            "phone": "8014927791",
+            "email": "mike@rowbury.com",
+            "website": "www.randrrealtyonline.com"
+        },
+        "history": {
+            "2025-05-01": {
+                "event": "Sale Listing",
+                "price": 719900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 33
+            }
+        }
+    },
+    {
+        "id": "434-S-700-W,-Apt-4,-Provo,-UT-84601",
+        "formattedAddress": "434 S 700 W, Apt 4, Provo, UT 84601",
+        "addressLine1": "434 S 700 W",
+        "addressLine2": "Apt 4",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.22796,
+        "longitude": -111.671694,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 820,
+        "lotSize": 871,
+        "yearBuilt": 1973,
+        "hoa": {
+            "fee": 165
+        },
+        "status": "Active",
+        "price": 250000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-15T02:51:57.195Z",
+        "lastSeenDate": "2025-06-02T12:27:52.457Z",
+        "daysOnMarket": 35,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2081129",
+        "listingAgent": {
+            "name": "Devin Hubbard",
+            "phone": "8017258938"
+        },
+        "listingOffice": {
+            "name": "Exp Realty",
+            "phone": "8015286076",
+            "email": "rssutah@gmail.com"
+        },
+        "history": {
+            "2025-04-29": {
+                "event": "Sale Listing",
+                "price": 250000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 35
+            }
+        }
+    },
+    {
+        "id": "699-W-1920-S,-Unit-1018,-Provo,-UT-84601",
+        "formattedAddress": "699 W 1920 S, Unit 1018, Provo, UT 84601",
+        "addressLine1": "699 W 1920 S",
+        "addressLine2": "Unit 1018",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.207918,
+        "longitude": -111.671092,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1290,
+        "lotSize": 871,
+        "yearBuilt": 2023,
+        "hoa": {
+            "fee": 95
+        },
+        "status": "Active",
+        "price": 405000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-04T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:25:51.298Z",
+        "daysOnMarket": 31,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082411",
+        "listingAgent": {
+            "name": "Devin Hubbard",
+            "phone": "8017258938"
+        },
+        "listingOffice": {
+            "name": "Exp Realty",
+            "phone": "8015286076",
+            "email": "rssutah@gmail.com"
+        },
+        "history": {
+            "2025-05-03": {
+                "event": "Sale Listing",
+                "price": 405000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 31
+            }
+        }
+    },
+    {
+        "id": "255-N-1600-W,-Trlr-81,-Provo,-UT-84601",
+        "formattedAddress": "255 N 1600 W, Trlr 81, Provo, UT 84601",
+        "addressLine1": "255 N 1600 W",
+        "addressLine2": "Trlr 81",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.229992,
+        "longitude": -111.688265,
+        "propertyType": "Manufactured",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1025,
+        "yearBuilt": 1972,
+        "hoa": {
+            "fee": 735
+        },
+        "status": "Active",
+        "price": 75000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-03T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:25:51.291Z",
+        "daysOnMarket": 29,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082556",
+        "listingAgent": {
+            "name": "Francisco Rubio",
+            "phone": "3854393880",
+            "email": "pacorubio08@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Realtypath (South Valley)",
+            "phone": "8013865908",
+            "email": "cheryl.utahkey@gmail.com"
+        },
+        "history": {
+            "2024-10-02": {
+                "event": "Sale Listing",
+                "price": 75000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-02T00:00:00.000Z",
+                "removedDate": "2025-03-31T00:00:00.000Z",
+                "daysOnMarket": 180
+            },
+            "2025-05-05": {
+                "event": "Sale Listing",
+                "price": 75000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "1380-W-Parkside-Dr,-Provo,-UT-84601",
+        "formattedAddress": "1380 W Parkside Dr, Provo, UT 84601",
+        "addressLine1": "1380 W Parkside Dr",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.229888,
+        "longitude": -111.683546,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1800,
+        "lotSize": 1307,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 225
+        },
+        "status": "Active",
+        "price": 399900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-06T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:25:51.289Z",
+        "daysOnMarket": 29,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082565",
+        "listingAgent": {
+            "name": "Roger Barrus",
+            "phone": "8015469300",
+            "email": "rbarrus@xmission.com"
+        },
+        "listingOffice": {
+            "name": "Horizon Realty L.L.C.",
+            "phone": "8015469300"
+        },
+        "history": {
+            "2025-05-05": {
+                "event": "Sale Listing",
+                "price": 399900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "653-S-500-W,-Apt-1,-Provo,-UT-84601",
+        "formattedAddress": "653 S 500 W, Apt 1, Provo, UT 84601",
+        "addressLine1": "653 S 500 W",
+        "addressLine2": "Apt 1",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.225062,
+        "longitude": -111.667113,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 960,
+        "lotSize": 871,
+        "yearBuilt": 1985,
+        "hoa": {
+            "fee": 250
+        },
+        "status": "Active",
+        "price": 284900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-08T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:15:50.962Z",
+        "daysOnMarket": 27,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083210",
+        "listingAgent": {
+            "name": "Kimberly Hamilton",
+            "phone": "8014270543"
+        },
+        "listingOffice": {
+            "name": "Real Estate Essentials",
+            "phone": "8014728800",
+            "email": "jaydeher@outlook.com"
+        },
+        "history": {
+            "2025-05-07": {
+                "event": "Sale Listing",
+                "price": 284900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 27
+            }
+        }
+    },
+    {
+        "id": "1375-W-500-N,-Trlr-137,-Provo,-UT-84601",
+        "formattedAddress": "1375 W 500 N, Trlr 137, Provo, UT 84601",
+        "addressLine1": "1375 W 500 N",
+        "addressLine2": "Trlr 137",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.238194,
+        "longitude": -111.682236,
+        "propertyType": "Manufactured",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1200,
+        "lotSize": 2178,
+        "yearBuilt": 1990,
+        "hoa": {
+            "fee": 475
+        },
+        "status": "Active",
+        "price": 110000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-09T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:15:50.943Z",
+        "daysOnMarket": 26,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083569",
+        "listingAgent": {
+            "name": "Ivan Mejia",
+            "phone": "8014345100",
+            "email": "ivan.mejia@cbrealty.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "8014345100",
+            "email": "liesha.geddes@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com//ut/orem/office/provo-orem/oid_72/"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Sale Listing",
+                "price": 110000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 26
+            }
+        }
+    },
+    {
+        "id": "423-W-500-N,-Unit-9,-Provo,-UT-84601",
+        "formattedAddress": "423 W 500 N, Unit 9, Provo, UT 84601",
+        "addressLine1": "423 W 500 N",
+        "addressLine2": "Unit 9",
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.240198,
+        "longitude": -111.666111,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 774,
+        "lotSize": 871,
+        "yearBuilt": 1995,
+        "hoa": {
+            "fee": 150
+        },
+        "status": "Active",
+        "price": 305000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-09T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:15:50.939Z",
+        "daysOnMarket": 26,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083478",
+        "listingAgent": {
+            "name": "Felix Martinez",
+            "phone": "8016477292",
+            "email": "ctrupprealtor@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Real Broker, LLC",
+            "phone": "8016411431",
+            "email": "sara@liveutah.com"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Sale Listing",
+                "price": 305000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 26
+            }
+        }
+    },
+    {
+        "id": "428-S-Tri-Terra-Ln-W,-Provo,-UT-84601",
+        "formattedAddress": "428 S Tri Terra Ln W, Provo, UT 84601",
+        "addressLine1": "428 S Tri Terra Ln W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.227949,
+        "longitude": -111.676095,
+        "propertyType": "Townhouse",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 1307,
+        "lotSize": 1742,
+        "yearBuilt": 2017,
+        "hoa": {
+            "fee": 180
+        },
+        "status": "Active",
+        "price": 356500,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-10-10T11:13:37.665Z",
+        "lastSeenDate": "2025-06-02T12:15:50.934Z",
+        "daysOnMarket": 26,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083672",
+        "listingAgent": {
+            "name": "Joshua Bingham",
+            "phone": "8017056005",
+            "email": "binghamjosh72@gmail.com"
+        },
+        "listingOffice": {
+            "name": "RE/MAX Associates - Utah County",
+            "phone": "8017741600"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Sale Listing",
+                "price": 356500,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 26
+            }
+        }
+    },
+    {
+        "id": "358-W-400-S,-Provo,-UT-84601",
+        "formattedAddress": "358 W 400 S, Provo, UT 84601",
+        "addressLine1": "358 W 400 S",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.22864,
+        "longitude": -111.664934,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 3026,
+        "lotSize": 5227,
+        "yearBuilt": 1918,
+        "status": "Active",
+        "price": 849900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-21T20:32:08.607Z",
+        "lastSeenDate": "2025-06-02T12:15:50.889Z",
+        "daysOnMarket": 26,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083319",
+        "listingAgent": {
+            "name": "Ashley Jensen",
+            "phone": "8018301717",
+            "website": "http://www.ashleyjensenrealestate.com"
+        },
+        "listingOffice": {
+            "name": "Lotus Real Estate",
+            "phone": "8018302006"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Sale Listing",
+                "price": 849900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 26
+            }
+        }
+    },
+    {
+        "id": "1343-N-3350-W,-Provo,-UT-84601",
+        "formattedAddress": "1343 N 3350 W, Provo, UT 84601",
+        "addressLine1": "1343 N 3350 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.252168,
+        "longitude": -111.718368,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 2907,
+        "lotSize": 6098,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 43
+        },
+        "status": "Active",
+        "price": 724900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-16T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:41:17.363Z",
+        "daysOnMarket": 19,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2085172",
+        "listingAgent": {
+            "name": "Shelby Hill",
+            "phone": "8015895800"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (Utah Valley)",
+            "phone": "8017246656"
+        },
+        "history": {
+            "2025-05-15": {
+                "event": "Sale Listing",
+                "price": 724900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 19
+            }
+        }
+    },
+    {
+        "id": "3146-W-1280-N,-Provo,-UT-84601",
+        "formattedAddress": "3146 W 1280 N, Provo, UT 84601",
+        "addressLine1": "3146 W 1280 N",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.251581,
+        "longitude": -111.714324,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 4924,
+        "lotSize": 19166,
+        "yearBuilt": 2017,
+        "hoa": {
+            "fee": 40
+        },
+        "status": "Active",
+        "price": 1097000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-23T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:37:02.729Z",
+        "daysOnMarket": 17,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2085837",
+        "listingAgent": {
+            "name": "Michael Heslop",
+            "phone": "8018643449",
+            "email": "mdheslop@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Jupidoor LLC",
+            "phone": "8018643449",
+            "email": "team@jupidoor.com",
+            "website": "`"
+        },
+        "history": {
+            "2024-08-22": {
+                "event": "Sale Listing",
+                "price": 1097000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-22T00:00:00.000Z",
+                "removedDate": "2024-10-23T00:00:00.000Z",
+                "daysOnMarket": 62
+            },
+            "2024-11-01": {
+                "event": "Sale Listing",
+                "price": 1097000,
+                "listingType": "Standard",
+                "listedDate": "2024-11-01T00:00:00.000Z",
+                "removedDate": "2025-05-02T00:00:00.000Z",
+                "daysOnMarket": 182
+            },
+            "2025-05-17": {
+                "event": "Sale Listing",
+                "price": 1097000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 17
+            }
+        }
+    },
+    {
+        "id": "175-N-800-W,-Provo,-UT-84601",
+        "formattedAddress": "175 N 800 W, Provo, UT 84601",
+        "addressLine1": "175 N 800 W",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.236057,
+        "longitude": -111.673099,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 2903,
+        "lotSize": 7405,
+        "yearBuilt": 1937,
+        "status": "Active",
+        "price": 535000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-21T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:37:02.684Z",
+        "daysOnMarket": 14,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2086215",
+        "listingAgent": {
+            "name": "Alexander Ramirez",
+            "phone": "8013181424"
+        },
+        "listingOffice": {
+            "name": "KW WESTFIELD",
+            "phone": "8018505600",
+            "email": "office@kwwestfield.com",
+            "website": "www.kwwestfield.com"
+        },
+        "history": {
+            "2025-05-20": {
+                "event": "Sale Listing",
+                "price": 535000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "227-West-Ln,-Provo,-UT-84601",
+        "formattedAddress": "227 West Ln, Provo, UT 84601",
+        "addressLine1": "227 West Ln",
+        "addressLine2": null,
+        "city": "Provo",
+        "state": "UT",
+        "zipCode": "84601",
+        "county": "Utah",
+        "latitude": 40.230356,
+        "longitude": -111.685659,
+        "propertyType": "Townhouse",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2139,
+        "lotSize": 2178,
+        "yearBuilt": 1975,
+        "hoa": {
+            "fee": 225
+        },
+        "status": "Active",
+        "price": 435000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-04-11T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:37:02.652Z",
+        "daysOnMarket": 15,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2085905",
+        "listingAgent": {
+            "name": "Chorkei (Kk) Davis",
+            "phone": "5302629115"
+        },
+        "listingOffice": {
+            "name": "Presidio Real Estate (South Valley)",
+            "phone": "8019003791",
+            "email": "evvykarolyne@gmail.com"
+        },
+        "history": {
+            "2025-03-08": {
+                "event": "Sale Listing",
+                "price": 443000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-08T00:00:00.000Z",
+                "removedDate": "2025-05-16T00:00:00.000Z",
+                "daysOnMarket": 69
+            },
+            "2025-05-19": {
+                "event": "Sale Listing",
+                "price": 435000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 15
+            }
+        }
+    }
+]

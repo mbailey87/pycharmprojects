@@ -1,0 +1,2589 @@
+[
+    {
+        "id": "3663-W-1480-N,-Unit-304,-Lehi,-UT-84043",
+        "formattedAddress": "3663 W 1480 N, Unit 304, Lehi, UT 84043",
+        "addressLine1": "3663 W 1480 N",
+        "addressLine2": "Unit 304",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.405399,
+        "longitude": -111.908539,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1228,
+        "lotSize": 436,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 264
+        },
+        "status": "Active",
+        "price": 319900,
+        "listingType": "Standard",
+        "listedDate": "2025-01-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-02T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.585Z",
+        "daysOnMarket": 153,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2056274",
+        "listingAgent": {
+            "name": "Thad Thompson",
+            "phone": "8013690657",
+            "email": "thadmthompson@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate - Results",
+            "phone": "8018556370",
+            "website": "whyequity.com"
+        },
+        "history": {
+            "2025-01-01": {
+                "event": "Sale Listing",
+                "price": 319900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 153
+            }
+        }
+    },
+    {
+        "id": "1153-W-1425-Dr-N,-Lehi,-UT-84043",
+        "formattedAddress": "1153 W 1425 Dr N, Lehi, UT 84043",
+        "addressLine1": "1153 W 1425 Dr N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.404432,
+        "longitude": -111.867873,
+        "propertyType": "Single Family",
+        "bedrooms": 8,
+        "bathrooms": 4.5,
+        "squareFootage": 4655,
+        "lotSize": 8276,
+        "yearBuilt": 2021,
+        "status": "Active",
+        "price": 929900,
+        "listingType": "Standard",
+        "listedDate": "2025-01-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-04T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.579Z",
+        "daysOnMarket": 151,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2056614",
+        "listingAgent": {
+            "name": "Michelle Loveland",
+            "phone": "8018659377",
+            "email": "hallmarkrealestateco@gmail.com",
+            "website": "http://www.actionreatlynetwork.com"
+        },
+        "listingOffice": {
+            "name": "Hallmark Real Estate Company of Utah",
+            "phone": "8015774806",
+            "email": "hallmarkrealestateco@gmail.com"
+        },
+        "history": {
+            "2025-01-03": {
+                "event": "Sale Listing",
+                "price": 929900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 151
+            }
+        }
+    },
+    {
+        "id": "1599-W-Morning-View-Way-N,-Lehi,-UT-84043",
+        "formattedAddress": "1599 W Morning View Way N, Lehi, UT 84043",
+        "addressLine1": "1599 W Morning View Way N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.438057,
+        "longitude": -111.875157,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4.5,
+        "squareFootage": 6414,
+        "lotSize": 16553,
+        "yearBuilt": 2015,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 2000000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-01-24T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.563Z",
+        "daysOnMarket": 145,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2057491",
+        "listingAgent": {
+            "name": "Jennifer Belliston",
+            "phone": "4356596650",
+            "email": "jen.homegroup@gmail.com",
+            "website": "http://www.premierhomegrouputah.com/"
+        },
+        "listingOffice": {
+            "name": "RE/MAX Associates - Utah County",
+            "phone": "8017741600"
+        },
+        "history": {
+            "2025-01-09": {
+                "event": "Sale Listing",
+                "price": 2000000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 145
+            }
+        }
+    },
+    {
+        "id": "835-W-Spring-Dew-Ln,-Lehi,-UT-84043",
+        "formattedAddress": "835 W Spring Dew Ln, Lehi, UT 84043",
+        "addressLine1": "835 W Spring Dew Ln",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.439693,
+        "longitude": -111.862406,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 3537,
+        "lotSize": 6534,
+        "yearBuilt": 2016,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 865000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-12T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.552Z",
+        "daysOnMarket": 143,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2058063",
+        "listingAgent": {
+            "name": "Pamela Neeleman-clark",
+            "phone": "4353155846",
+            "email": "neelemanpamela@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Neeleman Clark Realty Group",
+            "phone": "4353155846",
+            "email": "neelemanpamela@gmail.com"
+        },
+        "history": {
+            "2025-01-11": {
+                "event": "Sale Listing",
+                "price": 865000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 143
+            }
+        }
+    },
+    {
+        "id": "3224-W-2400-N,-Lehi,-UT-84043",
+        "formattedAddress": "3224 W 2400 N, Lehi, UT 84043",
+        "addressLine1": "3224 W 2400 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.416929,
+        "longitude": -111.901458,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1939,
+        "lotSize": 3049,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 154
+        },
+        "status": "Active",
+        "price": 530000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-06-17T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.547Z",
+        "daysOnMarket": 132,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2060174",
+        "listingAgent": {
+            "name": "Angie Nelden",
+            "phone": "8014672100",
+            "email": "angienelden@gmail.com",
+            "website": "http://www.angienelden.com"
+        },
+        "listingOffice": {
+            "name": "Summit Sotheby's International Realty",
+            "phone": "8014672100",
+            "email": "online.leads@sothebysrealty.com",
+            "website": "http://www.summitsothebysrealty.com/"
+        },
+        "history": {
+            "2025-01-22": {
+                "event": "Sale Listing",
+                "price": 530000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 132
+            }
+        }
+    },
+    {
+        "id": "4945-N-Vialetto-Way,-Lehi,-UT-84043",
+        "formattedAddress": "4945 N Vialetto Way, Lehi, UT 84043",
+        "addressLine1": "4945 N Vialetto Way",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.449442,
+        "longitude": -111.872238,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareFootage": 5412,
+        "lotSize": 13068,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 1899999,
+        "listingType": "Standard",
+        "listedDate": "2025-01-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-24T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.521Z",
+        "daysOnMarket": 140,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2058856",
+        "listingAgent": {
+            "name": "Amy Volcic",
+            "phone": "8014672100",
+            "email": "amyvolcic16@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Summit Sotheby's International Realty",
+            "phone": "8014672100",
+            "email": "online.leads@sothebysrealty.com",
+            "website": "https://www.sothebysrealty.com/summitsir"
+        },
+        "history": {
+            "2024-08-23": {
+                "event": "Sale Listing",
+                "price": 2159000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-23T00:00:00.000Z",
+                "removedDate": "2024-12-15T00:00:00.000Z",
+                "daysOnMarket": 114
+            },
+            "2025-01-14": {
+                "event": "Sale Listing",
+                "price": 1899999,
+                "listingType": "Standard",
+                "listedDate": "2025-01-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 140
+            }
+        }
+    },
+    {
+        "id": "3301-W-Cramden-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "3301 W Cramden Dr, Lehi, UT 84043",
+        "addressLine1": "3301 W Cramden Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.417943,
+        "longitude": -111.902469,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareFootage": 4960,
+        "lotSize": 11761,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 22
+        },
+        "status": "Active",
+        "price": 990000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-18T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.504Z",
+        "daysOnMarket": 137,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2059375",
+        "listingOffice": {
+            "name": "TRH Property Group",
+            "phone": "8017225552",
+            "email": "rjholley@qwest.net"
+        },
+        "history": {
+            "2025-01-17": {
+                "event": "Sale Listing",
+                "price": 990000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 137
+            }
+        }
+    },
+    {
+        "id": "2946-N-1080-W,-Lehi,-UT-84043",
+        "formattedAddress": "2946 N 1080 W, Lehi, UT 84043",
+        "addressLine1": "2946 N 1080 W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.424839,
+        "longitude": -111.866463,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 4394,
+        "lotSize": 4356,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 45
+        },
+        "status": "Active",
+        "price": 999900,
+        "listingType": "Standard",
+        "listedDate": "2025-01-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-12-25T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.488Z",
+        "daysOnMarket": 132,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2060048",
+        "listingAgent": {
+            "name": "Carolee Hernandez",
+            "phone": "8018821837",
+            "email": "utahhomesrealtor@gmail.com",
+            "website": "http://www.utahhomesrealtor.com"
+        },
+        "listingOffice": {
+            "name": "Bravo Realty Services Llc",
+            "phone": "8016620966"
+        },
+        "history": {
+            "2025-01-22": {
+                "event": "Sale Listing",
+                "price": 999900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 132
+            }
+        }
+    },
+    {
+        "id": "1320-W-Summer-View-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "1320 W Summer View Dr, Lehi, UT 84043",
+        "addressLine1": "1320 W Summer View Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.441148,
+        "longitude": -111.870803,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "squareFootage": 4473,
+        "lotSize": 9148,
+        "yearBuilt": 2022,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 1559900,
+        "listingType": "Standard",
+        "listedDate": "2025-01-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-09-18T15:42:06.810Z",
+        "lastSeenDate": "2025-06-02T13:07:35.485Z",
+        "daysOnMarket": 132,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2060018",
+        "listingAgent": {
+            "name": "Giovanni Della Corte",
+            "phone": "8013187140",
+            "email": "giovannidc9@gmail.com",
+            "website": "http://giovannidellacorte.c21.com/"
+        },
+        "listingOffice": {
+            "name": "United Real Estate Advantage",
+            "phone": "8019166366"
+        },
+        "history": {
+            "2025-01-22": {
+                "event": "Sale Listing",
+                "price": 1559900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 132
+            }
+        }
+    },
+    {
+        "id": "2344-N-White-Cliff-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "2344 N White Cliff Dr, Lehi, UT 84043",
+        "addressLine1": "2344 N White Cliff Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.416251,
+        "longitude": -111.919385,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 3072,
+        "lotSize": 3049,
+        "yearBuilt": 2022,
+        "hoa": {
+            "fee": 195
+        },
+        "status": "Active",
+        "price": 549900,
+        "listingType": "Standard",
+        "listedDate": "2025-01-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-13T10:11:34.446Z",
+        "lastSeenDate": "2025-06-02T13:07:35.480Z",
+        "daysOnMarket": 132,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2060015",
+        "listingAgent": {
+            "name": "Raymon Cox",
+            "phone": "4354677653",
+            "email": "raycoxrealestate@hotmail.com"
+        },
+        "listingOffice": {
+            "name": "ERA Brokers Consolidated (St. George)",
+            "phone": "4356281606",
+            "email": "shaunajo@erabrokers.com"
+        },
+        "history": {
+            "2025-01-22": {
+                "event": "Sale Listing",
+                "price": 549900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 132
+            }
+        }
+    },
+    {
+        "id": "4468-W-2600-N,-Lehi,-UT-84043",
+        "formattedAddress": "4468 W 2600 N, Lehi, UT 84043",
+        "addressLine1": "4468 W 2600 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.41964,
+        "longitude": -111.919827,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 3259,
+        "lotSize": 4792,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 104
+        },
+        "status": "Active",
+        "price": 615000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-28T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.158Z",
+        "daysOnMarket": 127,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2060955",
+        "listingAgent": {
+            "name": "M. Jake Breen",
+            "phone": "8014141852",
+            "email": "jakebreen@gmail.com",
+            "website": "http://utahcribs.com"
+        },
+        "listingOffice": {
+            "name": "Dijjit, LC",
+            "phone": "8015428855",
+            "email": "ddesso@utahcribs.com",
+            "website": "dijjit.com"
+        },
+        "history": {
+            "2025-01-27": {
+                "event": "Sale Listing",
+                "price": 615000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "4403-W-2360-N,-Lehi,-UT-84043",
+        "formattedAddress": "4403 W 2360 N, Lehi, UT 84043",
+        "addressLine1": "4403 W 2360 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.416298,
+        "longitude": -111.918738,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2633,
+        "lotSize": 3920,
+        "yearBuilt": 2022,
+        "hoa": {
+            "fee": 191
+        },
+        "status": "Active",
+        "price": 570000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-08-13T11:51:43.495Z",
+        "lastSeenDate": "2025-06-02T13:06:34.152Z",
+        "daysOnMarket": 127,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2061064",
+        "listingAgent": {
+            "name": "C Terry Clark",
+            "phone": "8015500903"
+        },
+        "listingOffice": {
+            "name": "Ivory Homes, LTD",
+            "phone": "8017477000"
+        },
+        "history": {
+            "2025-01-27": {
+                "event": "Sale Listing",
+                "price": 570000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "1454-N-3830-W,-Unit-201,-Lehi,-UT-84043",
+        "formattedAddress": "1454 N 3830 W, Unit 201, Lehi, UT 84043",
+        "addressLine1": "1454 N 3830 W",
+        "addressLine2": "Unit 201",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.405209,
+        "longitude": -111.910551,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1272,
+        "lotSize": 436,
+        "yearBuilt": 2022,
+        "hoa": {
+            "fee": 281
+        },
+        "status": "Active",
+        "price": 335000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.137Z",
+        "daysOnMarket": 122,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2062059",
+        "listingAgent": {
+            "name": "Jessica Hernandez",
+            "phone": "8016570956"
+        },
+        "listingOffice": {
+            "name": "Professional Real Estate Services",
+            "phone": "8016916300"
+        },
+        "history": {
+            "2025-02-01": {
+                "event": "Sale Listing",
+                "price": 335000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 122
+            }
+        }
+    },
+    {
+        "id": "1455-N-3600-W,-Lehi,-UT-84043",
+        "formattedAddress": "1455 N 3600 W, Lehi, UT 84043",
+        "addressLine1": "1455 N 3600 W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.404918,
+        "longitude": -111.907199,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2420,
+        "lotSize": 1307,
+        "yearBuilt": 2022,
+        "hoa": {
+            "fee": 151
+        },
+        "status": "Active",
+        "price": 429900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-05T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.106Z",
+        "daysOnMarket": 119,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2062409",
+        "listingAgent": {
+            "name": "Lisa Turner",
+            "phone": "8017741501",
+            "email": "martha@marthasellsutah.com"
+        },
+        "listingOffice": {
+            "name": "Harris Real Estate Group, LLC",
+            "phone": "8013620784"
+        },
+        "history": {
+            "2025-02-04": {
+                "event": "Sale Listing",
+                "price": 429900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 119
+            }
+        }
+    },
+    {
+        "id": "1538-N-3890-St-W,-Lehi,-UT-84043",
+        "formattedAddress": "1538 N 3890 St W, Lehi, UT 84043",
+        "addressLine1": "1538 N 3890 St W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.406437,
+        "longitude": -111.911805,
+        "propertyType": "Townhouse",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2478,
+        "lotSize": 1307,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 130
+        },
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-06T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.089Z",
+        "daysOnMarket": 118,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2062653",
+        "listingAgent": {
+            "name": "D. Michael Smith",
+            "phone": "3858538824"
+        },
+        "listingOffice": {
+            "name": "Double Realty, LLC",
+            "phone": "8777048824",
+            "email": "val@doublerealty.com"
+        },
+        "history": {
+            "2025-02-05": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 118
+            }
+        }
+    },
+    {
+        "id": "751-W-700-S,-Lehi,-UT-84043",
+        "formattedAddress": "751 W 700 S, Lehi, UT 84043",
+        "addressLine1": "751 W 700 S",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.379448,
+        "longitude": -111.861137,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "squareFootage": 2835,
+        "lotSize": 14810,
+        "yearBuilt": 1996,
+        "status": "Active",
+        "price": 664900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-08T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.077Z",
+        "daysOnMarket": 116,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2063247",
+        "listingAgent": {
+            "name": "Matt Evans",
+            "phone": "8013677077",
+            "email": "matt@evansteamutah.com",
+            "website": "http://www.seeutahhomes.com/evansteam"
+        },
+        "listingOffice": {
+            "name": "Summit Realty, Inc.",
+            "phone": "8012210900",
+            "email": "jean@jeantanner.com",
+            "website": "www.jeantanner.com"
+        },
+        "history": {
+            "2025-02-07": {
+                "event": "Sale Listing",
+                "price": 664900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 116
+            }
+        }
+    },
+    {
+        "id": "736-S-300-W,-Lehi,-UT-84043",
+        "formattedAddress": "736 S 300 W, Lehi, UT 84043",
+        "addressLine1": "736 S 300 W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.379217,
+        "longitude": -111.853938,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1601,
+        "lotSize": 45738,
+        "yearBuilt": 1917,
+        "status": "Active",
+        "price": 829900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-23T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.072Z",
+        "daysOnMarket": 112,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2063794",
+        "listingAgent": {
+            "name": "Lucas Ballard",
+            "phone": "8012242010",
+            "email": "lukejballard@gmail.com",
+            "website": "http://www.utahcountyrealtysearch.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate - Prosper Group",
+            "phone": "3853367355",
+            "email": "thecolletteteam@gmail.com",
+            "website": "www.thecolletteteam.com"
+        },
+        "history": {
+            "2024-08-23": {
+                "event": "Sale Listing",
+                "price": 899000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-23T00:00:00.000Z",
+                "removedDate": "2024-10-05T00:00:00.000Z",
+                "daysOnMarket": 43
+            },
+            "2025-02-11": {
+                "event": "Sale Listing",
+                "price": 829900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 112
+            }
+        }
+    },
+    {
+        "id": "3937-W-1850-N,-Lehi,-UT-84043",
+        "formattedAddress": "3937 W 1850 N, Lehi, UT 84043",
+        "addressLine1": "3937 W 1850 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.409776,
+        "longitude": -111.912768,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 3295,
+        "lotSize": 3920,
+        "yearBuilt": 2017,
+        "hoa": {
+            "fee": 66
+        },
+        "status": "Active",
+        "price": 629990,
+        "listingType": "Standard",
+        "listedDate": "2025-01-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-29T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.071Z",
+        "daysOnMarket": 125,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2061303",
+        "listingAgent": {
+            "name": "Carson C Glover"
+        },
+        "listingOffice": {
+            "name": "Real Broker, LLC",
+            "phone": "8016411431",
+            "email": "sara@liveutah.com"
+        },
+        "history": {
+            "2025-01-29": {
+                "event": "Sale Listing",
+                "price": 629990,
+                "listingType": "Standard",
+                "listedDate": "2025-01-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 125
+            }
+        }
+    },
+    {
+        "id": "2075-N-4100-W,-Unit-473,-Lehi,-UT-84043",
+        "formattedAddress": "2075 N 4100 W, Unit 473, Lehi, UT 84043",
+        "addressLine1": "2075 N 4100 W",
+        "addressLine2": "Unit 473",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.412237,
+        "longitude": -111.915427,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2370,
+        "lotSize": 1307,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 104
+        },
+        "status": "Active",
+        "price": 474500,
+        "listingType": "Standard",
+        "listedDate": "2025-02-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-11T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.071Z",
+        "daysOnMarket": 117,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2062967",
+        "listingAgent": {
+            "name": "Douglas Russell",
+            "phone": "8014762800",
+            "email": "doug.russell@cbrealty.com",
+            "website": "http://www.dougrussell.cbintouch.com/"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "8014762800",
+            "email": "emily.cox@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com//ut/ogden/office/ogden-south-ogden/oid_92/"
+        },
+        "history": {
+            "2025-02-06": {
+                "event": "Sale Listing",
+                "price": 474500,
+                "listingType": "Standard",
+                "listedDate": "2025-02-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 117
+            }
+        }
+    },
+    {
+        "id": "2324-N-1000-E,-Lehi,-UT-84043",
+        "formattedAddress": "2324 N 1000 E, Lehi, UT 84043",
+        "addressLine1": "2324 N 1000 E",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.41718,
+        "longitude": -111.83324,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 2948,
+        "lotSize": 9583,
+        "yearBuilt": 1993,
+        "status": "Active",
+        "price": 645000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-29T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.070Z",
+        "daysOnMarket": 125,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2061323",
+        "listingAgent": {
+            "name": "Karen Blackburn",
+            "phone": "8014584175",
+            "email": "karen@fitnessrealty.com",
+            "website": "http://fitnessrealty.com"
+        },
+        "listingOffice": {
+            "name": "Real Broker, LLC",
+            "phone": "8016411431",
+            "email": "sara@liveutah.com"
+        },
+        "history": {
+            "2025-01-29": {
+                "event": "Sale Listing",
+                "price": 645000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 125
+            }
+        }
+    },
+    {
+        "id": "647-W-1330-S,-Lehi,-UT-84043",
+        "formattedAddress": "647 W 1330 S, Lehi, UT 84043",
+        "addressLine1": "647 W 1330 S",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.371727,
+        "longitude": -111.859775,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 5904,
+        "lotSize": 14810,
+        "yearBuilt": 2023,
+        "status": "Active",
+        "price": 1349000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-02T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:06:34.053Z",
+        "daysOnMarket": 116,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2063414",
+        "listingAgent": {
+            "name": "Steven Vanderlaan",
+            "phone": "8016470040",
+            "email": "svanderlaan@yahoo.com",
+            "website": "http://www.nextutah.com"
+        },
+        "listingOffice": {
+            "name": "Next Real Estate",
+            "phone": "8016470040",
+            "email": "svanderlaan@yahoo.com",
+            "website": "www.nextutah.com"
+        },
+        "history": {
+            "2024-03-01": {
+                "event": "Sale Listing",
+                "price": 1290000,
+                "listingType": "Standard",
+                "listedDate": "2024-03-01T00:00:00.000Z",
+                "removedDate": "2025-01-02T00:00:00.000Z",
+                "daysOnMarket": 307
+            },
+            "2025-02-07": {
+                "event": "Sale Listing",
+                "price": 1349000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 116
+            }
+        }
+    },
+    {
+        "id": "2426-N-Alesund-Way,-Lehi,-UT-84043",
+        "formattedAddress": "2426 N Alesund Way, Lehi, UT 84043",
+        "addressLine1": "2426 N Alesund Way",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.417209,
+        "longitude": -111.917991,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4,
+        "squareFootage": 2577,
+        "lotSize": 3920,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 191
+        },
+        "status": "Active",
+        "price": 749000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-30T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.169Z",
+        "daysOnMarket": 109,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2064748",
+        "listingAgent": {
+            "name": "Marco Munguia",
+            "phone": "8014672100",
+            "email": "marcoexpertadvisor@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Summit Sotheby's International Realty",
+            "phone": "8014672100",
+            "email": "online.leads@sothebysrealty.com",
+            "website": "https://www.sothebysrealty.com/summitsir"
+        },
+        "history": {
+            "2024-04-30": {
+                "event": "Sale Listing",
+                "price": 596000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-30T00:00:00.000Z",
+                "removedDate": "2024-10-04T00:00:00.000Z",
+                "daysOnMarket": 157
+            },
+            "2025-01-10": {
+                "event": "Sale Listing",
+                "price": 770000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-10T00:00:00.000Z",
+                "removedDate": "2025-02-12T00:00:00.000Z",
+                "daysOnMarket": 33
+            },
+            "2025-02-14": {
+                "event": "Sale Listing",
+                "price": 749000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 109
+            }
+        }
+    },
+    {
+        "id": "2998-N-1080-W,-Lehi,-UT-84043",
+        "formattedAddress": "2998 N 1080 W, Lehi, UT 84043",
+        "addressLine1": "2998 N 1080 W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.42525,
+        "longitude": -111.866459,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 3273,
+        "lotSize": 5663,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 45
+        },
+        "status": "Active",
+        "price": 839900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-19T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.113Z",
+        "daysOnMarket": 112,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2063861",
+        "listingAgent": {
+            "name": "Carolee Hernandez",
+            "phone": "8018821837",
+            "email": "utahhomesrealtor@gmail.com",
+            "website": "http://www.utahhomesrealtor.com"
+        },
+        "listingOffice": {
+            "name": "Bravo Realty Services Llc",
+            "phone": "8016620966"
+        },
+        "history": {
+            "2024-02-15": {
+                "event": "Sale Listing",
+                "price": 874900,
+                "listingType": "Standard",
+                "listedDate": "2024-02-15T00:00:00.000Z",
+                "removedDate": "2025-01-11T00:00:00.000Z",
+                "daysOnMarket": 331
+            },
+            "2025-02-11": {
+                "event": "Sale Listing",
+                "price": 839900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 112
+            }
+        }
+    },
+    {
+        "id": "1148-W-2980-N,-Lehi,-UT-84043",
+        "formattedAddress": "1148 W 2980 N, Lehi, UT 84043",
+        "addressLine1": "1148 W 2980 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.425301,
+        "longitude": -111.867736,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3.5,
+        "squareFootage": 4320,
+        "lotSize": 4356,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 45
+        },
+        "status": "Active",
+        "price": 934900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-22T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.112Z",
+        "daysOnMarket": 112,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2063867",
+        "listingAgent": {
+            "name": "Kristy Owens",
+            "phone": "8014672100",
+            "email": "kristy@kristyowens.com",
+            "website": "http://www.kristyowens.com"
+        },
+        "listingOffice": {
+            "name": "Bravo Realty Services Llc",
+            "phone": "8016620966"
+        },
+        "history": {
+            "2024-01-18": {
+                "event": "Sale Listing",
+                "price": 964900,
+                "listingType": "Standard",
+                "listedDate": "2024-01-18T00:00:00.000Z",
+                "removedDate": "2025-01-11T00:00:00.000Z",
+                "daysOnMarket": 359
+            },
+            "2025-02-11": {
+                "event": "Sale Listing",
+                "price": 934900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 112
+            }
+        }
+    },
+    {
+        "id": "131-S-1900-W,-Unit-2,-Lehi,-UT-84043",
+        "formattedAddress": "131 S 1900 W, Unit 2, Lehi, UT 84043",
+        "addressLine1": "131 S 1900 W",
+        "addressLine2": "Unit 2",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.386028,
+        "longitude": -111.879417,
+        "propertyType": "Townhouse",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1692,
+        "lotSize": 3049,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 272
+        },
+        "status": "Active",
+        "price": 504999,
+        "listingType": "Standard",
+        "listedDate": "2025-02-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-26T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.076Z",
+        "daysOnMarket": 104,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2065455",
+        "listingAgent": {
+            "name": "Adam Icenogle",
+            "phone": "3853759817"
+        },
+        "listingOffice": {
+            "name": "Homie",
+            "phone": "8013581411",
+            "email": "bob.ross@homie.com",
+            "website": "http://www.homie.com"
+        },
+        "history": {
+            "2025-02-19": {
+                "event": "Sale Listing",
+                "price": 504999,
+                "listingType": "Standard",
+                "listedDate": "2025-02-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 104
+            }
+        }
+    },
+    {
+        "id": "4863-N-Shady-Hollow-Ln-W,-Lehi,-UT-84043",
+        "formattedAddress": "4863 N Shady Hollow Ln W, Lehi, UT 84043",
+        "addressLine1": "4863 N Shady Hollow Ln W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.44745,
+        "longitude": -111.89567,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareFootage": 3254,
+        "lotSize": 6098,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 675000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-24T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.058Z",
+        "daysOnMarket": 100,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2066143",
+        "listingAgent": {
+            "name": "Michael Hoffee",
+            "phone": "8014406364",
+            "email": "michael@wmrutah.com",
+            "website": "http://www.wmrutah.com"
+        },
+        "listingOffice": {
+            "name": "Wasatch Mountain Realty",
+            "phone": "8015715001",
+            "email": "michael@wmrutah.com",
+            "website": "wmrutah.com"
+        },
+        "history": {
+            "2025-02-23": {
+                "event": "Sale Listing",
+                "price": 675000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 100
+            }
+        }
+    },
+    {
+        "id": "1863-S-900-E,-Lehi,-UT-84043",
+        "formattedAddress": "1863 S 900 E, Lehi, UT 84043",
+        "addressLine1": "1863 S 900 E",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.365746,
+        "longitude": -111.834115,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2994,
+        "lotSize": 8276,
+        "yearBuilt": 2014,
+        "hoa": {
+            "fee": 40
+        },
+        "status": "Active",
+        "price": 759900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-24T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.052Z",
+        "daysOnMarket": 99,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2066157",
+        "listingAgent": {
+            "name": "Steven Robinson",
+            "phone": "8014205260",
+            "email": "stever@utahproperties.com",
+            "website": "steverobinson.utahproperties.com"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway HomeServices Elite Real Estate",
+            "phone": "8012249011",
+            "email": "brucet@prudentialutah.com"
+        },
+        "history": {
+            "2025-02-24": {
+                "event": "Sale Listing",
+                "price": 759900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 99
+            }
+        }
+    },
+    {
+        "id": "3222-N-775-W,-Lehi,-UT-84043",
+        "formattedAddress": "3222 N 775 W, Lehi, UT 84043",
+        "addressLine1": "3222 N 775 W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.428259,
+        "longitude": -111.861458,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 3819,
+        "lotSize": 13068,
+        "yearBuilt": 2013,
+        "status": "Active",
+        "price": 835000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-25T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.052Z",
+        "daysOnMarket": 99,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2066244",
+        "listingAgent": {
+            "name": "Katherine Laub",
+            "phone": "8015032867"
+        },
+        "listingOffice": {
+            "name": "Signature Real Estate Utah - Cottonwood Heights",
+            "phone": "8019482501",
+            "website": "www.signatureslc.com"
+        },
+        "history": {
+            "2025-02-24": {
+                "event": "Sale Listing",
+                "price": 835000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 99
+            }
+        }
+    },
+    {
+        "id": "1125-N-Trinnaman-Ln,-Lehi,-UT-84043",
+        "formattedAddress": "1125 N Trinnaman Ln, Lehi, UT 84043",
+        "addressLine1": "1125 N Trinnaman Ln",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.411149,
+        "longitude": -111.867533,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 1,
+        "squareFootage": 2360,
+        "lotSize": 8712,
+        "yearBuilt": 1979,
+        "status": "Active",
+        "price": 582500,
+        "listingType": "Standard",
+        "listedDate": "2025-02-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-05-19T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.041Z",
+        "daysOnMarket": 104,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2065350",
+        "listingAgent": {
+            "name": "Zach Droubay",
+            "phone": "8019798706"
+        },
+        "listingOffice": {
+            "name": "Bybee & Co Realty, LLC",
+            "phone": "8012101461"
+        },
+        "history": {
+            "2025-02-19": {
+                "event": "Sale Listing",
+                "price": 582500,
+                "listingType": "Standard",
+                "listedDate": "2025-02-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 104
+            }
+        }
+    },
+    {
+        "id": "1817-W-Bad-Rock-Cir,-Unit-100303,-Lehi,-UT-84043",
+        "formattedAddress": "1817 W Bad Rock Cir, Unit 100303, Lehi, UT 84043",
+        "addressLine1": "1817 W Bad Rock Cir",
+        "addressLine2": "Unit 100303",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.46203,
+        "longitude": -111.87827,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 3312,
+        "lotSize": 8712,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 104
+        },
+        "status": "Active",
+        "price": 1000000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.133Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067207",
+        "listingAgent": {
+            "name": "James Piercey",
+            "phone": "5416198069",
+            "email": "jim.piercey@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (South Valley)",
+            "phone": "8017277950",
+            "website": "www.equityhotproperties.com"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 1000000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "770-N-1000-E,-Lehi,-UT-84043",
+        "formattedAddress": "770 N 1000 E, Lehi, UT 84043",
+        "addressLine1": "770 N 1000 E",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.397226,
+        "longitude": -111.832891,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "squareFootage": 2668,
+        "lotSize": 10019,
+        "yearBuilt": 1968,
+        "status": "Active",
+        "price": 714800,
+        "listingType": "Standard",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.133Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067172",
+        "listingAgent": {
+            "name": "Kim Orlandini"
+        },
+        "listingOffice": {
+            "name": "KW Utah Realtors Keller Williams",
+            "phone": "8018580000",
+            "email": "ctrupprealtor@gmail.com",
+            "website": "www.kw.com"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 714800,
+                "listingType": "Standard",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "242-S-300-E,-Lehi,-UT-84043",
+        "formattedAddress": "242 S 300 E, Lehi, UT 84043",
+        "addressLine1": "242 S 300 E",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.385117,
+        "longitude": -111.844742,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4.5,
+        "squareFootage": 3776,
+        "lotSize": 10890,
+        "yearBuilt": 2025,
+        "status": "Active",
+        "price": 884900,
+        "listingType": "New Construction",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-14T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.130Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067258",
+        "listingAgent": {
+            "name": "Timothy Halls",
+            "phone": "8013724149"
+        },
+        "listingOffice": {
+            "name": "Realtypath LLC - Home and Family",
+            "phone": "8012569595"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 884900,
+                "listingType": "New Construction",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "2402-N-Cramden-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "2402 N Cramden Dr, Lehi, UT 84043",
+        "addressLine1": "2402 N Cramden Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.416765,
+        "longitude": -111.8966,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "squareFootage": 3404,
+        "lotSize": 5663,
+        "yearBuilt": 2017,
+        "hoa": {
+            "fee": 23
+        },
+        "status": "Active",
+        "price": 740000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.128Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067291",
+        "listingAgent": {
+            "name": "Lori Wilson-jewett",
+            "phone": "8016801696",
+            "email": "lori@cdautah.com",
+            "website": "www.lori.cdautah.com"
+        },
+        "listingOffice": {
+            "name": "CDA Properties",
+            "phone": "8012684134",
+            "website": "www.cdapropertiesslc.com"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 740000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "5204-N-Eagles-View-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "5204 N Eagles View Dr, Lehi, UT 84043",
+        "addressLine1": "5204 N Eagles View Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.451924,
+        "longitude": -111.888233,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3.5,
+        "squareFootage": 4076,
+        "lotSize": 8712,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 850000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-03-24T14:18:50.344Z",
+        "lastSeenDate": "2025-06-02T12:56:45.127Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067295",
+        "listingAgent": {
+            "name": "Scott Steadman",
+            "phone": "8013471401",
+            "email": "scott@winutah.com",
+            "website": "http://www.scottsteadman.com/"
+        },
+        "listingOffice": {
+            "name": "Windermere Real Estate-Utah (Ft. Un",
+            "phone": "8014499400",
+            "email": "annie.hedberg@gmail.com",
+            "website": "deolson.withwre.com"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 850000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "4151-W-2060-N,-Lehi,-UT-84043",
+        "formattedAddress": "4151 W 2060 N, Lehi, UT 84043",
+        "addressLine1": "4151 W 2060 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.41194,
+        "longitude": -111.915879,
+        "propertyType": "Townhouse",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 2366,
+        "lotSize": 1307,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 104
+        },
+        "status": "Active",
+        "price": 495000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-02T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.119Z",
+        "daysOnMarket": 93,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067540",
+        "listingAgent": {
+            "name": "Makayla Smith",
+            "phone": "8016765700"
+        },
+        "listingOffice": {
+            "name": "In Depth Realty",
+            "phone": "8015762564",
+            "email": "shawn@northstarreo.com",
+            "website": "https://www.goodlifeutah.com/"
+        },
+        "history": {
+            "2025-03-02": {
+                "event": "Sale Listing",
+                "price": 495000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 93
+            }
+        }
+    },
+    {
+        "id": "3581-W-Grassland-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "3581 W Grassland Dr, Lehi, UT 84043",
+        "addressLine1": "3581 W Grassland Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.391416,
+        "longitude": -111.906149,
+        "propertyType": "Townhouse",
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "squareFootage": 2308,
+        "lotSize": 1307,
+        "yearBuilt": 2019,
+        "hoa": {
+            "fee": 135
+        },
+        "status": "Active",
+        "price": 480000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-05T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.112Z",
+        "daysOnMarket": 91,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067850",
+        "listingAgent": {
+            "name": "Jason Knight",
+            "phone": "8015920730",
+            "email": "theknightgroup.realtor@gmail.com",
+            "website": "http://www.theknightrealtygroup.com"
+        },
+        "listingOffice": {
+            "name": "Ivie Avenue Real Estate, LLC",
+            "phone": "8015920730"
+        },
+        "history": {
+            "2025-03-04": {
+                "event": "Sale Listing",
+                "price": 480000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 91
+            }
+        }
+    },
+    {
+        "id": "1192-W-Reggio-Cir,-Unit-330,-Lehi,-UT-84043",
+        "formattedAddress": "1192 W Reggio Cir, Unit 330, Lehi, UT 84043",
+        "addressLine1": "1192 W Reggio Cir",
+        "addressLine2": "Unit 330",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.449102,
+        "longitude": -111.868541,
+        "propertyType": "Land",
+        "lotSize": 16988,
+        "hoa": {
+            "fee": 98
+        },
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-05T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.101Z",
+        "daysOnMarket": 91,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067808",
+        "listingAgent": {
+            "name": "Abraham Pedraza",
+            "phone": "8014493000",
+            "email": "abe@pedrazarealestate.com"
+        },
+        "listingOffice": {
+            "name": "Realtyone Group Signature (South Valley)",
+            "phone": "3853371201"
+        },
+        "history": {
+            "2025-03-04": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 91
+            }
+        }
+    },
+    {
+        "id": "2616-N-Elm-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "2616 N Elm Dr, Lehi, UT 84043",
+        "addressLine1": "2616 N Elm Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.419755,
+        "longitude": -111.891443,
+        "propertyType": "Townhouse",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2231,
+        "lotSize": 1307,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 155
+        },
+        "status": "Active",
+        "price": 475000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-07T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.040Z",
+        "daysOnMarket": 89,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2068422",
+        "listingOffice": {
+            "name": "Masters Utah Real Estate",
+            "phone": "8014531166",
+            "email": "sally@sallyroberts.com",
+            "website": "www.mastersutah.com"
+        },
+        "history": {
+            "2025-03-06": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 89
+            }
+        }
+    },
+    {
+        "id": "2798-N-Tower-Mill-Way-E,-Lehi,-UT-84043",
+        "formattedAddress": "2798 N Tower Mill Way E, Lehi, UT 84043",
+        "addressLine1": "2798 N Tower Mill Way E",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.421959,
+        "longitude": -111.910496,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2628,
+        "lotSize": 2614,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 169
+        },
+        "status": "Active",
+        "price": 645900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-08-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:44.986Z",
+        "daysOnMarket": 88,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2068872",
+        "listingAgent": {
+            "name": "C Terry Clark",
+            "phone": "8015500903"
+        },
+        "listingOffice": {
+            "name": "Ivory Homes, LTD",
+            "phone": "8017477000"
+        },
+        "history": {
+            "2024-08-14": {
+                "event": "Sale Listing",
+                "price": 649900,
+                "listingType": "Standard",
+                "listedDate": "2024-08-14T00:00:00.000Z",
+                "removedDate": "2025-03-02T00:00:00.000Z",
+                "daysOnMarket": 200
+            },
+            "2025-03-07": {
+                "event": "Sale Listing",
+                "price": 645900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 88
+            }
+        }
+    },
+    {
+        "id": "197-E-Clubview-Ln,-Lehi,-UT-84043",
+        "formattedAddress": "197 E Clubview Ln, Lehi, UT 84043",
+        "addressLine1": "197 E Clubview Ln",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.430272,
+        "longitude": -111.846117,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "squareFootage": 2397,
+        "lotSize": 1307,
+        "yearBuilt": 2007,
+        "hoa": {
+            "fee": 191
+        },
+        "status": "Active",
+        "price": 430000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-08T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:44.981Z",
+        "daysOnMarket": 88,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2068833",
+        "listingAgent": {
+            "name": "Kimberly Patterson",
+            "phone": "8015891697",
+            "email": "kim@parker-brown.com"
+        },
+        "listingOffice": {
+            "name": "Kim Finch Real Estate",
+            "phone": "8015891697"
+        },
+        "history": {
+            "2025-03-07": {
+                "event": "Sale Listing",
+                "price": 430000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 88
+            }
+        }
+    },
+    {
+        "id": "2205-W-1960-St-N,-Lehi,-UT-84043",
+        "formattedAddress": "2205 W 1960 St N, Lehi, UT 84043",
+        "addressLine1": "2205 W 1960 St N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.4109859,
+        "longitude": -111.9170136,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2902,
+        "lotSize": 7841,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 55
+        },
+        "status": "Active",
+        "price": 724990,
+        "listingType": "New Construction",
+        "listedDate": "2025-03-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-11T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:44.954Z",
+        "daysOnMarket": 87,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2068993",
+        "listingAgent": {
+            "name": "Nicole Sabell",
+            "phone": "3035033685",
+            "email": "nicole.sabell@centurycommunities.com",
+            "website": "https://www.centurycommunities.com/find-your-new-home/utah/salt-lake-city-metro/lehi/pioneer-meadows/"
+        },
+        "listingOffice": {
+            "name": "Century Communities Realty Of Utah, Llc",
+            "phone": "8016794482"
+        },
+        "history": {
+            "2025-03-08": {
+                "event": "Sale Listing",
+                "price": 724990,
+                "listingType": "New Construction",
+                "listedDate": "2025-03-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 87
+            }
+        }
+    },
+    {
+        "id": "4719-N-Driftwood-View-Dr-N,-Lehi,-UT-84043",
+        "formattedAddress": "4719 N Driftwood View Dr N, Lehi, UT 84043",
+        "addressLine1": "4719 N Driftwood View Dr N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.445645,
+        "longitude": -111.882151,
+        "propertyType": "Single Family",
+        "bedrooms": 7,
+        "bathrooms": 6.5,
+        "squareFootage": 7385,
+        "lotSize": 10454,
+        "yearBuilt": 2008,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 1295000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-11T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.717Z",
+        "daysOnMarket": 85,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067997",
+        "listingAgent": {
+            "name": "Kenneth Montague",
+            "phone": "8018597370"
+        },
+        "listingOffice": {
+            "name": "Omada Real Estate",
+            "phone": "8018593173"
+        },
+        "history": {
+            "2025-03-10": {
+                "event": "Sale Listing",
+                "price": 1295000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 85
+            }
+        }
+    },
+    {
+        "id": "4379-N-Ridge-View-Way,-Lehi,-UT-84043",
+        "formattedAddress": "4379 N Ridge View Way, Lehi, UT 84043",
+        "addressLine1": "4379 N Ridge View Way",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.441583,
+        "longitude": -111.880341,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 4.5,
+        "squareFootage": 6576,
+        "lotSize": 11761,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 94
+        },
+        "status": "Active",
+        "price": 2150000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-11-10T16:17:34.694Z",
+        "lastSeenDate": "2025-06-02T12:56:42.714Z",
+        "daysOnMarket": 84,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069400",
+        "listingAgent": {
+            "name": "Bryson Mull",
+            "phone": "8013726124"
+        },
+        "listingOffice": {
+            "name": "The Real Estate Collective, LLC",
+            "phone": "4357722524"
+        },
+        "history": {
+            "2025-03-11": {
+                "event": "Sale Listing",
+                "price": 2150000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 84
+            }
+        }
+    },
+    {
+        "id": "2960-N-1080-W,-Lehi,-UT-84043",
+        "formattedAddress": "2960 N 1080 W, Lehi, UT 84043",
+        "addressLine1": "2960 N 1080 W",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.424979,
+        "longitude": -111.866421,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 4620,
+        "lotSize": 4792,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 45
+        },
+        "status": "Active",
+        "price": 959900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-22T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.707Z",
+        "daysOnMarket": 85,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069252",
+        "listingAgent": {
+            "name": "Devi Day",
+            "phone": "8016470646",
+            "email": "deviday10@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Bravo Realty Services Llc",
+            "phone": "8016620966"
+        },
+        "history": {
+            "2024-03-22": {
+                "event": "Sale Listing",
+                "price": 974900,
+                "listingType": "Standard",
+                "listedDate": "2024-03-22T00:00:00.000Z",
+                "removedDate": "2025-02-20T00:00:00.000Z",
+                "daysOnMarket": 335
+            },
+            "2025-03-10": {
+                "event": "Sale Listing",
+                "price": 959900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 85
+            }
+        }
+    },
+    {
+        "id": "4967-N-Vialetto-Way,-Unit-219,-Lehi,-UT-84043",
+        "formattedAddress": "4967 N Vialetto Way, Unit 219, Lehi, UT 84043",
+        "addressLine1": "4967 N Vialetto Way",
+        "addressLine2": "Unit 219",
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.450126,
+        "longitude": -111.871767,
+        "propertyType": "Land",
+        "lotSize": 20473,
+        "hoa": {
+            "fee": 90
+        },
+        "status": "Active",
+        "price": 600000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-14T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.706Z",
+        "daysOnMarket": 84,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069399",
+        "listingAgent": {
+            "name": "Michael Visser",
+            "phone": "8019691332",
+            "email": "rattleandhum.u2@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Utah Select Realty, Inc.",
+            "phone": "8014725887",
+            "email": "mmacgillivray13@gmail.com",
+            "website": "http://www.utahselectrealty.com"
+        },
+        "history": {
+            "2024-06-14": {
+                "event": "Sale Listing",
+                "price": 525000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-14T00:00:00.000Z",
+                "removedDate": "2025-01-02T00:00:00.000Z",
+                "daysOnMarket": 202
+            },
+            "2025-03-11": {
+                "event": "Sale Listing",
+                "price": 600000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 84
+            }
+        }
+    },
+    {
+        "id": "3376-W-2450-N,-Lehi,-UT-84043",
+        "formattedAddress": "3376 W 2450 N, Lehi, UT 84043",
+        "addressLine1": "3376 W 2450 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.417567,
+        "longitude": -111.903479,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 4652,
+        "lotSize": 11761,
+        "yearBuilt": 2017,
+        "hoa": {
+            "fee": 27
+        },
+        "status": "Active",
+        "price": 995000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-04-30T15:17:45.162Z",
+        "lastSeenDate": "2025-06-02T12:56:42.669Z",
+        "daysOnMarket": 84,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069575",
+        "listingAgent": {
+            "name": "Chad Morgan",
+            "phone": "9515510692",
+            "email": "chad@infiniterealestategroup.com",
+            "website": "http://chad.infiniterealestategroup.com"
+        },
+        "listingOffice": {
+            "name": "SURV REAL ESTATE INC"
+        },
+        "history": {
+            "2024-07-29": {
+                "event": "Sale Listing",
+                "price": 964900,
+                "listingType": "Standard",
+                "listedDate": "2024-07-29T00:00:00.000Z",
+                "removedDate": "2024-10-03T00:00:00.000Z",
+                "daysOnMarket": 66
+            },
+            "2025-03-11": {
+                "event": "Sale Listing",
+                "price": 995000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 84
+            }
+        }
+    },
+    {
+        "id": "634-N-Canvasback-Dr,-Lehi,-UT-84043",
+        "formattedAddress": "634 N Canvasback Dr, Lehi, UT 84043",
+        "addressLine1": "634 N Canvasback Dr",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.395073,
+        "longitude": -111.911259,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1311,
+        "lotSize": 1307,
+        "yearBuilt": 2022,
+        "hoa": {
+            "fee": 135
+        },
+        "status": "Active",
+        "price": 445000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-21T12:52:57.870Z",
+        "lastSeenDate": "2025-06-02T12:56:42.665Z",
+        "daysOnMarket": 78,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2070725",
+        "listingAgent": {
+            "name": "Dwight Epperson",
+            "phone": "8018794642"
+        },
+        "listingOffice": {
+            "name": "Wise Choice Real Estate - Central",
+            "phone": "8018491257",
+            "email": "wisechoicerealestate@gmail.com",
+            "website": "http://www.gowisechoice.com"
+        },
+        "history": {
+            "2025-03-17": {
+                "event": "Sale Listing",
+                "price": 445000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 78
+            }
+        }
+    },
+    {
+        "id": "4028-W-1730-N,-Lehi,-UT-84043",
+        "formattedAddress": "4028 W 1730 N, Lehi, UT 84043",
+        "addressLine1": "4028 W 1730 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.40866,
+        "longitude": -111.914094,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 3105,
+        "lotSize": 3920,
+        "yearBuilt": 2019,
+        "hoa": {
+            "fee": 66
+        },
+        "status": "Active",
+        "price": 598000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.661Z",
+        "daysOnMarket": 80,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2070609",
+        "listingAgent": {
+            "name": "Yachi Jiang",
+            "phone": "8017904136"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate  - Buckley-Branch",
+            "phone": "8017904136",
+            "email": "kurtbuckley@msn.com",
+            "website": "equityutah.com"
+        },
+        "history": {
+            "2025-03-15": {
+                "event": "Sale Listing",
+                "price": 598000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 80
+            }
+        }
+    },
+    {
+        "id": "2660-W-1080-N,-Lehi,-UT-84043",
+        "formattedAddress": "2660 W 1080 N, Lehi, UT 84043",
+        "addressLine1": "2660 W 1080 N",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.400996,
+        "longitude": -111.892597,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "squareFootage": 4487,
+        "lotSize": 17860,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 55
+        },
+        "status": "Active",
+        "price": 1290000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-13T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.641Z",
+        "daysOnMarket": 83,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069799",
+        "listingOffice": {
+            "name": "Cannon & Company",
+            "phone": "8017538226"
+        },
+        "history": {
+            "2025-03-12": {
+                "event": "Sale Listing",
+                "price": 1290000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 83
+            }
+        }
+    },
+    {
+        "id": "6062-N-Fox-Canyon-Rd,-Lehi,-UT-84043",
+        "formattedAddress": "6062 N Fox Canyon Rd, Lehi, UT 84043",
+        "addressLine1": "6062 N Fox Canyon Rd",
+        "addressLine2": null,
+        "city": "Lehi",
+        "state": "UT",
+        "zipCode": "84043",
+        "county": "Utah",
+        "latitude": 40.462109,
+        "longitude": -111.8772,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 4041,
+        "lotSize": 7841,
+        "yearBuilt": 2024,
+        "hoa": {
+            "fee": 104
+        },
+        "status": "Active",
+        "price": 935000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.633Z",
+        "daysOnMarket": 82,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2069933",
+        "listingAgent": {
+            "name": "Hunter Chiniquy",
+            "phone": "8018505700"
+        },
+        "listingOffice": {
+            "name": "KW WESTFIELD",
+            "phone": "8018505600",
+            "email": "office@kwwestfield.com",
+            "website": "www.kwwestfield.com"
+        },
+        "history": {
+            "2025-03-13": {
+                "event": "Sale Listing",
+                "price": 935000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 82
+            }
+        }
+    }
+]

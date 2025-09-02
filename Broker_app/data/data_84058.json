@@ -1,0 +1,2375 @@
+[
+    {
+        "id": "64-E-2075-S,-Orem,-UT-84058",
+        "formattedAddress": "64 E 2075 S, Orem, UT 84058",
+        "addressLine1": "64 E 2075 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.258798,
+        "longitude": -111.69342,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 4352,
+        "lotSize": 8712,
+        "yearBuilt": 1983,
+        "status": "Active",
+        "price": 679999,
+        "listingType": "Standard",
+        "listedDate": "2025-01-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-01-03T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:07:35.581Z",
+        "daysOnMarket": 151,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2056512",
+        "listingAgent": {
+            "name": "Jake Chad Argyle",
+            "phone": "8012249011",
+            "email": "jake@alwaysaffordablehomes.com"
+        },
+        "listingOffice": {
+            "name": "Salisbury Homes Real Estate LLC",
+            "phone": "8013768777"
+        },
+        "history": {
+            "2025-01-03": {
+                "event": "Sale Listing",
+                "price": 679999,
+                "listingType": "Standard",
+                "listedDate": "2025-01-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 151
+            }
+        }
+    },
+    {
+        "id": "1975-Laguna-Vista-Dr,-Orem,-UT-84058",
+        "formattedAddress": "1975 Laguna Vista Dr, Orem, UT 84058",
+        "addressLine1": "1975 Laguna Vista Dr",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.26122,
+        "longitude": -111.700088,
+        "propertyType": "Single Family",
+        "bedrooms": 8,
+        "bathrooms": 4,
+        "squareFootage": 4614,
+        "lotSize": 16117,
+        "yearBuilt": 1979,
+        "status": "Active",
+        "price": 975000,
+        "listingType": "Standard",
+        "listedDate": "2025-01-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-03-15T14:08:03.580Z",
+        "lastSeenDate": "2025-06-02T13:06:34.229Z",
+        "daysOnMarket": 126,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2061267",
+        "listingAgent": {
+            "name": "Bryan Crown",
+            "phone": "8015201424",
+            "email": "bryan@mcewenrealtors.com",
+            "website": "http://mcewenrealtors.com"
+        },
+        "listingOffice": {
+            "name": "Exp Realty",
+            "phone": "8015286076",
+            "email": "rssutah@gmail.com"
+        },
+        "history": {
+            "2025-01-28": {
+                "event": "Sale Listing",
+                "price": 975000,
+                "listingType": "Standard",
+                "listedDate": "2025-01-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 126
+            }
+        }
+    },
+    {
+        "id": "1444-S-430-W,-Unit-7,-Orem,-UT-84058",
+        "formattedAddress": "1444 S 430 W, Unit 7, Orem, UT 84058",
+        "addressLine1": "1444 S 430 W",
+        "addressLine2": "Unit 7",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.271138,
+        "longitude": -111.705643,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1158,
+        "lotSize": 1307,
+        "yearBuilt": 1999,
+        "hoa": {
+            "fee": 155
+        },
+        "status": "Active",
+        "price": 329900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-14T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.163Z",
+        "daysOnMarket": 110,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2064497",
+        "listingAgent": {
+            "name": "Olivia Pelton",
+            "phone": "8015501723",
+            "email": "oliviap@ranlife.com",
+            "website": "http://utlocal.com/"
+        },
+        "listingOffice": {
+            "name": "Presidio Real Estate Company",
+            "phone": "8012516683",
+            "email": "utahrebroker@gmail.com",
+            "website": "www.presidioutahre.com"
+        },
+        "history": {
+            "2025-02-13": {
+                "event": "Sale Listing",
+                "price": 329900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 110
+            }
+        }
+    },
+    {
+        "id": "1700-S-Sandhill-Rd,-Unit-C205,-Orem,-UT-84058",
+        "formattedAddress": "1700 S Sandhill Rd, Unit C205, Orem, UT 84058",
+        "addressLine1": "1700 S Sandhill Rd",
+        "addressLine2": "Unit C205",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.267057,
+        "longitude": -111.710722,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 790,
+        "lotSize": 871,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 105
+        },
+        "status": "Active",
+        "price": 280000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.157Z",
+        "daysOnMarket": 108,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2064770",
+        "listingAgent": {
+            "name": "Nora G. Christfield",
+            "phone": "8017358145",
+            "email": "noraz@utahproperties.com"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway HomeServices Elite Real Estate",
+            "phone": "8012249011",
+            "email": "brucet@prudentialutah.com"
+        },
+        "history": {
+            "2025-02-15": {
+                "event": "Sale Listing",
+                "price": 280000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 108
+            }
+        }
+    },
+    {
+        "id": "451-S-Main-St,---136,-Vineyard,-UT-84058",
+        "formattedAddress": "451 S Main St, # 136, Vineyard, UT 84058",
+        "addressLine1": "451 S Main St",
+        "addressLine2": "# 136",
+        "city": "Vineyard",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.289066,
+        "longitude": -111.694351,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 4167,
+        "lotSize": 5663,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 175
+        },
+        "status": "Active",
+        "price": 864900,
+        "listingType": "New Construction",
+        "listedDate": "2025-02-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-26T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.077Z",
+        "daysOnMarket": 98,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2066494",
+        "listingAgent": {
+            "name": "Krechelle Hymas",
+            "phone": "8013697864"
+        },
+        "listingOffice": {
+            "name": "UPT Real Estate",
+            "phone": "8017091756"
+        },
+        "history": {
+            "2025-02-25": {
+                "event": "Sale Listing",
+                "price": 864900,
+                "listingType": "New Construction",
+                "listedDate": "2025-02-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 98
+            }
+        }
+    },
+    {
+        "id": "481-S-Main-St,-Unit-139,-Vineyard,-UT-84058",
+        "formattedAddress": "481 S Main St, Unit 139, Vineyard, UT 84058",
+        "addressLine1": "481 S Main St",
+        "addressLine2": "Unit 139",
+        "city": "Vineyard",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.288074,
+        "longitude": -111.752174,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "squareFootage": 3261,
+        "lotSize": 5663,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 175
+        },
+        "status": "Active",
+        "price": 749900,
+        "listingType": "Standard",
+        "listedDate": "2025-02-21T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-25T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T13:05:00.059Z",
+        "daysOnMarket": 102,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2065869",
+        "listingAgent": {
+            "name": "Marty Morgan"
+        },
+        "listingOffice": {
+            "name": "UPT Real Estate",
+            "phone": "8017091756"
+        },
+        "history": {
+            "2025-02-21": {
+                "event": "Sale Listing",
+                "price": 749900,
+                "listingType": "Standard",
+                "listedDate": "2025-02-21T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 102
+            }
+        }
+    },
+    {
+        "id": "473-S-Main-St,---138,-Vineyard,-UT-84058",
+        "formattedAddress": "473 S Main St, # 138, Vineyard, UT 84058",
+        "addressLine1": "473 S Main St",
+        "addressLine2": "# 138",
+        "city": "Vineyard",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.288212,
+        "longitude": -111.752174,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "squareFootage": 3749,
+        "lotSize": 5663,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 175
+        },
+        "status": "Active",
+        "price": 878663,
+        "listingType": "New Construction",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-28T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.134Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067081",
+        "listingAgent": {
+            "name": "Marty Morgan"
+        },
+        "listingOffice": {
+            "name": "UPT Real Estate",
+            "phone": "8017091756"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 878663,
+                "listingType": "New Construction",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "441-S-Main-St,---135,-Vineyard,-UT-84058",
+        "formattedAddress": "441 S Main St, # 135, Vineyard, UT 84058",
+        "addressLine1": "441 S Main St",
+        "addressLine2": "# 135",
+        "city": "Vineyard",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.288647,
+        "longitude": -111.752235,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 3956,
+        "lotSize": 5663,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 175
+        },
+        "status": "Active",
+        "price": 798900,
+        "listingType": "New Construction",
+        "listedDate": "2025-02-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:45.126Z",
+        "daysOnMarket": 95,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2067347",
+        "listingAgent": {
+            "name": "Krechelle Hymas",
+            "phone": "8013697864"
+        },
+        "listingOffice": {
+            "name": "UPT Real Estate",
+            "phone": "8017091756"
+        },
+        "history": {
+            "2025-02-28": {
+                "event": "Sale Listing",
+                "price": 798900,
+                "listingType": "New Construction",
+                "listedDate": "2025-02-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 95
+            }
+        }
+    },
+    {
+        "id": "1700-Sandhill-Rd,-Unit-H203,-Orem,-UT-84058",
+        "formattedAddress": "1700 Sandhill Rd, Unit H203, Orem, UT 84058",
+        "addressLine1": "1700 Sandhill Rd",
+        "addressLine2": "Unit H203",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.265781,
+        "longitude": -111.709585,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 783,
+        "lotSize": 871,
+        "yearBuilt": 2017,
+        "hoa": {
+            "fee": 105
+        },
+        "status": "Active",
+        "price": 275000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-14T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:56:42.631Z",
+        "daysOnMarket": 81,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2070286",
+        "listingAgent": {
+            "name": "Tracie Rust",
+            "phone": "8013771653"
+        },
+        "listingOffice": {
+            "name": "R and R Realty, LLC",
+            "phone": "8014927791",
+            "email": "mike@rowbury.com",
+            "website": "www.randrrealtyonline.com"
+        },
+        "history": {
+            "2025-03-14": {
+                "event": "Sale Listing",
+                "price": 275000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 81
+            }
+        }
+    },
+    {
+        "id": "1655-S-Main-St-W,-Orem,-UT-84058",
+        "formattedAddress": "1655 S Main St W, Orem, UT 84058",
+        "addressLine1": "1655 S Main St W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.266944,
+        "longitude": -111.694656,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1920,
+        "lotSize": 9583,
+        "yearBuilt": 1950,
+        "status": "Active",
+        "price": 479900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-27T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:53:25.223Z",
+        "daysOnMarket": 69,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2072775",
+        "listingAgent": {
+            "name": "J Pablo Sanchez",
+            "phone": "8018794685",
+            "email": "paulhomes@live.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (Solid)",
+            "phone": "8012085872"
+        },
+        "history": {
+            "2025-03-26": {
+                "event": "Sale Listing",
+                "price": 479900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 69
+            }
+        }
+    },
+    {
+        "id": "73-N-English-Rd-E,-Vineyard,-UT-84058",
+        "formattedAddress": "73 N English Rd E, Vineyard, UT 84058",
+        "addressLine1": "73 N English Rd E",
+        "addressLine2": null,
+        "city": "Vineyard",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.298386,
+        "longitude": -111.753161,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 3446,
+        "lotSize": 5227,
+        "yearBuilt": 2016,
+        "status": "Active",
+        "price": 700000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-28T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:53:25.208Z",
+        "daysOnMarket": 68,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2073106",
+        "listingAgent": {
+            "name": "Rylar Masco",
+            "phone": "4359156977",
+            "email": "rylar@mascorealty.com",
+            "website": "http://mascorealty.com"
+        },
+        "listingOffice": {
+            "name": "Utah Key Real Estate",
+            "phone": "8017120707",
+            "email": "cherylandheather@gmail.com",
+            "website": "http://www.utahkeyrealestate.com"
+        },
+        "history": {
+            "2025-03-27": {
+                "event": "Sale Listing",
+                "price": 700000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 68
+            }
+        }
+    },
+    {
+        "id": "881-S-635-W,-Orem,-UT-84058",
+        "formattedAddress": "881 S 635 W, Orem, UT 84058",
+        "addressLine1": "881 S 635 W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.281367,
+        "longitude": -111.710235,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 5,
+        "squareFootage": 8643,
+        "lotSize": 28314,
+        "yearBuilt": 1979,
+        "status": "Active",
+        "price": 1850000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-09-09T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:51:52.943Z",
+        "daysOnMarket": 68,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2073157",
+        "listingAgent": {
+            "name": "Jann Bassett",
+            "phone": "8014345100",
+            "email": "jann.bassett@cbrealty.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "8014345100",
+            "email": "liesha.geddes@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com//ut/orem/office/provo-orem/oid_72/"
+        },
+        "history": {
+            "2025-03-27": {
+                "event": "Sale Listing",
+                "price": 1850000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 68
+            }
+        }
+    },
+    {
+        "id": "439-E-2000-S,-Orem,-UT-84058",
+        "formattedAddress": "439 E 2000 S, Orem, UT 84058",
+        "addressLine1": "439 E 2000 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.260875,
+        "longitude": -111.684413,
+        "propertyType": "Townhouse",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "squareFootage": 2331,
+        "lotSize": 2178,
+        "yearBuilt": 1995,
+        "hoa": {
+            "fee": 125
+        },
+        "status": "Active",
+        "price": 489000,
+        "listingType": "Standard",
+        "listedDate": "2025-03-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-28T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:51:52.931Z",
+        "daysOnMarket": 68,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2073300",
+        "listingAgent": {
+            "name": "Shnaiah Mounga",
+            "phone": "8012242010",
+            "email": "shnaiahmounga@gmail.com"
+        },
+        "listingOffice": {
+            "name": "CENTURY 21 Harman Realty",
+            "phone": "8012242010",
+            "email": "david.harman@century21.com",
+            "website": "http://www.century21harman.com/"
+        },
+        "history": {
+            "2025-03-27": {
+                "event": "Sale Listing",
+                "price": 489000,
+                "listingType": "Standard",
+                "listedDate": "2025-03-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 68
+            }
+        }
+    },
+    {
+        "id": "240-W-220-S,-Orem,-UT-84058",
+        "formattedAddress": "240 W 220 S, Orem, UT 84058",
+        "addressLine1": "240 W 220 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.293401,
+        "longitude": -111.700845,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 2,
+        "squareFootage": 2592,
+        "lotSize": 7405,
+        "yearBuilt": 1981,
+        "status": "Active",
+        "price": 549900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-29T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:51:52.917Z",
+        "daysOnMarket": 67,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2073533",
+        "listingAgent": {
+            "name": "Aaron Haaga",
+            "phone": "7196021399",
+            "email": "homes@stonebrook.com"
+        },
+        "listingOffice": {
+            "name": "Stonebrook Real Estate",
+            "phone": "8012781111",
+            "email": "robert_spicer@stonebrook.com",
+            "website": "www.stonebrook.com"
+        },
+        "history": {
+            "2025-03-28": {
+                "event": "Sale Listing",
+                "price": 549900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 67
+            }
+        }
+    },
+    {
+        "id": "1468-S-100-W,-Orem,-UT-84058",
+        "formattedAddress": "1468 S 100 W, Orem, UT 84058",
+        "addressLine1": "1468 S 100 W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.27061,
+        "longitude": -111.697898,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 2,
+        "squareFootage": 2710,
+        "lotSize": 7841,
+        "yearBuilt": 1983,
+        "status": "Active",
+        "price": 712000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-05T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:38:13.783Z",
+        "daysOnMarket": 60,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2075240",
+        "listingAgent": {
+            "name": "Luke White"
+        },
+        "listingOffice": {
+            "name": "Fathom Realty Utah - Orem",
+            "phone": "8018991500",
+            "email": "oremoffice@fathomrealty.com",
+            "website": "https://saltlakecity.fathomrealty.com/"
+        },
+        "history": {
+            "2025-04-04": {
+                "event": "Sale Listing",
+                "price": 712000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 60
+            }
+        }
+    },
+    {
+        "id": "1177-W-1810-S,-Orem,-UT-84058",
+        "formattedAddress": "1177 W 1810 S, Orem, UT 84058",
+        "addressLine1": "1177 W 1810 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.263596,
+        "longitude": -111.721727,
+        "propertyType": "Townhouse",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1502,
+        "lotSize": 2178,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 240
+        },
+        "status": "Active",
+        "price": 469900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-09T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:38:13.722Z",
+        "daysOnMarket": 56,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2075971",
+        "listingAgent": {
+            "name": "Shauna Shaw",
+            "phone": "8016681621"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway HomeServices Utah - Salt Lake",
+            "phone": "8019900400",
+            "email": "info@bhhsutah.com",
+            "website": "https://www.bhhsutah.com"
+        },
+        "history": {
+            "2025-04-08": {
+                "event": "Sale Listing",
+                "price": 469900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 56
+            }
+        }
+    },
+    {
+        "id": "537-W-1770-S,-Orem,-UT-84058",
+        "formattedAddress": "537 W 1770 S, Orem, UT 84058",
+        "addressLine1": "537 W 1770 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.264527,
+        "longitude": -111.70834,
+        "propertyType": "Townhouse",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2083,
+        "lotSize": 436,
+        "yearBuilt": 2013,
+        "hoa": {
+            "fee": 125
+        },
+        "status": "Active",
+        "price": 515000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-14T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:36:49.244Z",
+        "daysOnMarket": 50,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2077529",
+        "listingAgent": {
+            "name": "Patricia Hines",
+            "phone": "7036098040",
+            "email": "fred.meier@bairdwarner.com"
+        },
+        "listingOffice": {
+            "name": "ERA Brokers Consolidated",
+            "phone": "8013410909",
+            "email": "info@erabrokers.com",
+            "website": "https://erabrokers.com"
+        },
+        "history": {
+            "2025-04-14": {
+                "event": "Sale Listing",
+                "price": 515000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-14T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 50
+            }
+        }
+    },
+    {
+        "id": "222-S-760-W,-Orem,-UT-84058",
+        "formattedAddress": "222 S 760 W, Orem, UT 84058",
+        "addressLine1": "222 S 760 W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.293158,
+        "longitude": -111.713994,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 4.5,
+        "squareFootage": 4980,
+        "lotSize": 10454,
+        "yearBuilt": 1990,
+        "status": "Active",
+        "price": 924900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-19T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:35:23.233Z",
+        "daysOnMarket": 46,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2078785",
+        "listingAgent": {
+            "name": "Kaycee Leishman",
+            "phone": "8013619795",
+            "email": "kaycee@evansteamutah.com"
+        },
+        "listingOffice": {
+            "name": "Summit Realty, Inc.",
+            "phone": "8012210900",
+            "email": "jean@jeantanner.com",
+            "website": "www.jeantanner.com"
+        },
+        "history": {
+            "2025-04-18": {
+                "event": "Sale Listing",
+                "price": 924900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 46
+            }
+        }
+    },
+    {
+        "id": "311-E-1830-S,-Orem,-UT-84058",
+        "formattedAddress": "311 E 1830 S, Orem, UT 84058",
+        "addressLine1": "311 E 1830 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.263728,
+        "longitude": -111.687612,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1243,
+        "lotSize": 17424,
+        "yearBuilt": 1959,
+        "status": "Active",
+        "price": 424500,
+        "listingType": "Standard",
+        "listedDate": "2025-04-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-23T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:35:23.127Z",
+        "daysOnMarket": 42,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2079381",
+        "listingAgent": {
+            "name": "Hunter Chiniquy",
+            "phone": "8018505700"
+        },
+        "listingOffice": {
+            "name": "KW WESTFIELD",
+            "phone": "8018505600",
+            "email": "office@kwwestfield.com",
+            "website": "www.kwwestfield.com"
+        },
+        "history": {
+            "2025-04-22": {
+                "event": "Sale Listing",
+                "price": 424500,
+                "listingType": "Standard",
+                "listedDate": "2025-04-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 42
+            }
+        }
+    },
+    {
+        "id": "831-S-50-W,-Orem,-UT-84058",
+        "formattedAddress": "831 S 50 W, Orem, UT 84058",
+        "addressLine1": "831 S 50 W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.28186,
+        "longitude": -111.69615,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1050,
+        "lotSize": 7841,
+        "yearBuilt": 1959,
+        "status": "Active",
+        "price": 415000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-25T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:56.622Z",
+        "daysOnMarket": 40,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080168",
+        "listingAgent": {
+            "name": "Kennen R. Pyne",
+            "phone": "8013752483",
+            "email": "kennen.pyne@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Smart Moves Realty Inc.",
+            "phone": "8014278945"
+        },
+        "history": {
+            "2025-04-24": {
+                "event": "Sale Listing",
+                "price": 415000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 40
+            }
+        }
+    },
+    {
+        "id": "159-W-2040-S,-Unit-1,-Orem,-UT-84058",
+        "formattedAddress": "159 W 2040 S, Unit 1, Orem, UT 84058",
+        "addressLine1": "159 W 2040 S",
+        "addressLine2": "Unit 1",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.259809,
+        "longitude": -111.699376,
+        "propertyType": "Land",
+        "lotSize": 22216,
+        "status": "Active",
+        "price": 549900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-25T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:56.614Z",
+        "daysOnMarket": 39,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080464",
+        "listingAgent": {
+            "name": "Brett Henry",
+            "phone": "8016232518",
+            "email": "brett@househelputah.com",
+            "website": "http://www.simplechoicerealestate.com"
+        },
+        "listingOffice": {
+            "name": "Simple Choice Real Estate",
+            "phone": "8004761572",
+            "email": "brett@simplechoicerealestate.com",
+            "website": "www.simplechoicerealestate.com"
+        },
+        "history": {
+            "2025-04-25": {
+                "event": "Sale Listing",
+                "price": 549900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 39
+            }
+        }
+    },
+    {
+        "id": "1514-S-200-E,-Orem,-UT-84058",
+        "formattedAddress": "1514 S 200 E, Orem, UT 84058",
+        "addressLine1": "1514 S 200 E",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.269553,
+        "longitude": -111.691198,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 776,
+        "lotSize": 871,
+        "yearBuilt": 1994,
+        "hoa": {
+            "fee": 220
+        },
+        "status": "Active",
+        "price": 279900,
+        "listingType": "Standard",
+        "listedDate": "2025-04-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-26T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:56.611Z",
+        "daysOnMarket": 39,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2080339",
+        "listingAgent": {
+            "name": "Leuri Zibetti",
+            "phone": "8017351942",
+            "email": "leuri@visionutah.com",
+            "website": "http://www.visionutah.com"
+        },
+        "listingOffice": {
+            "name": "Presidio Real Estate Company",
+            "phone": "8012516683",
+            "email": "utahrebroker@gmail.com",
+            "website": "www.presidioutahre.com"
+        },
+        "history": {
+            "2025-04-25": {
+                "event": "Sale Listing",
+                "price": 279900,
+                "listingType": "Standard",
+                "listedDate": "2025-04-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 39
+            }
+        }
+    },
+    {
+        "id": "1676-S-Lakewood-Dr,-Orem,-UT-84058",
+        "formattedAddress": "1676 S Lakewood Dr, Orem, UT 84058",
+        "addressLine1": "1676 S Lakewood Dr",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.266677,
+        "longitude": -111.700583,
+        "propertyType": "Land",
+        "lotSize": 15682,
+        "status": "Active",
+        "price": 330000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-04-23T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:52.511Z",
+        "daysOnMarket": 33,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2081528",
+        "listingAgent": {
+            "name": "James Grierson",
+            "phone": "8013613330",
+            "email": "james@praedohomes.com"
+        },
+        "listingOffice": {
+            "name": "Praedo Properties, LL",
+            "phone": "8013672245"
+        },
+        "history": {
+            "2024-04-22": {
+                "event": "Sale Listing",
+                "price": 350000,
+                "listingType": "Standard",
+                "listedDate": "2024-04-22T00:00:00.000Z",
+                "removedDate": "2025-01-02T00:00:00.000Z",
+                "daysOnMarket": 255
+            },
+            "2025-05-01": {
+                "event": "Sale Listing",
+                "price": 330000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 33
+            }
+        }
+    },
+    {
+        "id": "1474-S-430-W,-Unit-23,-Orem,-UT-84058",
+        "formattedAddress": "1474 S 430 W, Unit 23, Orem, UT 84058",
+        "addressLine1": "1474 S 430 W",
+        "addressLine2": "Unit 23",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.270884,
+        "longitude": -111.705543,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 996,
+        "lotSize": 1307,
+        "yearBuilt": 1999,
+        "hoa": {
+            "fee": 155
+        },
+        "status": "Active",
+        "price": 288000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-02T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:52.487Z",
+        "daysOnMarket": 33,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2081549",
+        "listingAgent": {
+            "name": "Jena Hunt",
+            "phone": "8014007787",
+            "email": "jenahuntrealestate@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Real Estate Essentials",
+            "phone": "8014728800",
+            "email": "jaydeher@outlook.com"
+        },
+        "history": {
+            "2025-05-01": {
+                "event": "Sale Listing",
+                "price": 288000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 33
+            }
+        }
+    },
+    {
+        "id": "1700-S-Sandhill-Rd-S,-Unit-F301,-Orem,-UT-84058",
+        "formattedAddress": "1700 S Sandhill Rd S, Unit F301, Orem, UT 84058",
+        "addressLine1": "1700 S Sandhill Rd S",
+        "addressLine2": "Unit F301",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.266217,
+        "longitude": -111.710092,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 790,
+        "lotSize": 871,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 120
+        },
+        "status": "Active",
+        "price": 274900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-16T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:27:52.413Z",
+        "daysOnMarket": 32,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082085",
+        "listingAgent": {
+            "name": "Brad Gould",
+            "phone": "7026593718",
+            "email": "bgouldrealestate@gmail.com",
+            "website": "https://www.instagram.com/bradleygould50/"
+        },
+        "listingOffice": {
+            "name": "Presidio Real Estate Company",
+            "phone": "8012516683",
+            "email": "utahrebroker@gmail.com",
+            "website": "www.presidioutahre.com"
+        },
+        "history": {
+            "2025-05-02": {
+                "event": "Sale Listing",
+                "price": 274900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 32
+            }
+        }
+    },
+    {
+        "id": "1217-W-1860-S,-Unit-307,-Orem,-UT-84058",
+        "formattedAddress": "1217 W 1860 S, Unit 307, Orem, UT 84058",
+        "addressLine1": "1217 W 1860 S",
+        "addressLine2": "Unit 307",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.262777,
+        "longitude": -111.722463,
+        "propertyType": "Townhouse",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1600,
+        "lotSize": 436,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 240
+        },
+        "status": "Active",
+        "price": 479990,
+        "listingType": "Standard",
+        "listedDate": "2025-05-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-13T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:25:51.357Z",
+        "daysOnMarket": 32,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082257",
+        "listingAgent": {
+            "name": "Rachel Zinn",
+            "phone": "8017056000"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "8014345100",
+            "email": "liesha.geddes@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com//ut/orem/office/provo-orem/oid_72/"
+        },
+        "history": {
+            "2025-05-02": {
+                "event": "Sale Listing",
+                "price": 479990,
+                "listingType": "Standard",
+                "listedDate": "2025-05-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 32
+            }
+        }
+    },
+    {
+        "id": "1731-S-145-E,-Orem,-UT-84058",
+        "formattedAddress": "1731 S 145 E, Orem, UT 84058",
+        "addressLine1": "1731 S 145 E",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.265335,
+        "longitude": -111.691096,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 4784,
+        "lotSize": 15682,
+        "yearBuilt": 1965,
+        "status": "Active",
+        "price": 899000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-24T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:25:51.283Z",
+        "daysOnMarket": 29,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082604",
+        "listingAgent": {
+            "name": "Kassi Pontious",
+            "phone": "8016870222",
+            "email": "kassi@skiutahrealty.com",
+            "website": "http://www.utah-home-search.com/"
+        },
+        "listingOffice": {
+            "name": "Ski Utah Real Estate",
+            "phone": "8016870222"
+        },
+        "history": {
+            "2025-02-23": {
+                "event": "Sale Listing",
+                "price": 695000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-23T00:00:00.000Z",
+                "removedDate": "2025-03-03T00:00:00.000Z",
+                "daysOnMarket": 8
+            },
+            "2025-05-05": {
+                "event": "Sale Listing",
+                "price": 899000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 29
+            }
+        }
+    },
+    {
+        "id": "100-E-600-S,-Apt-15,-Orem,-UT-84058",
+        "formattedAddress": "100 E 600 S, Apt 15, Orem, UT 84058",
+        "addressLine1": "100 E 600 S",
+        "addressLine2": "Apt 15",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.285647,
+        "longitude": -111.692759,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 825,
+        "lotSize": 871,
+        "yearBuilt": 1979,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 269900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-07T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:25:51.259Z",
+        "daysOnMarket": 28,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2082862",
+        "listingAgent": {
+            "name": "Grant Evans",
+            "phone": "8014345100",
+            "email": "grant.evans@cbrealty.com",
+            "website": "http://www.homeswithgrantevans.com"
+        },
+        "listingOffice": {
+            "name": "Coldwell Banker Realty",
+            "phone": "8014345100",
+            "email": "liesha.geddes@cbrealty.com",
+            "website": "https://www.coldwellbankerhomes.com//ut/orem/office/provo-orem/oid_72/"
+        },
+        "history": {
+            "2025-05-06": {
+                "event": "Sale Listing",
+                "price": 269900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 28
+            }
+        }
+    },
+    {
+        "id": "1079-W-1970-S,-Orem,-UT-84058",
+        "formattedAddress": "1079 W 1970 S, Orem, UT 84058",
+        "addressLine1": "1079 W 1970 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.261034,
+        "longitude": -111.719321,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1575,
+        "lotSize": 436,
+        "yearBuilt": 2020,
+        "hoa": {
+            "fee": 240
+        },
+        "status": "Active",
+        "price": 450000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-03-17T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T12:15:50.947Z",
+        "daysOnMarket": 26,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083624",
+        "listingAgent": {
+            "name": "Becca Summers",
+            "phone": "8018505600",
+            "email": "bsummers@summershomes.com"
+        },
+        "listingOffice": {
+            "name": "KW Westfield (Excellence)",
+            "phone": "8018505600"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Sale Listing",
+                "price": 450000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 26
+            }
+        }
+    },
+    {
+        "id": "725-W-630-S,-Orem,-UT-84058",
+        "formattedAddress": "725 W 630 S, Orem, UT 84058",
+        "addressLine1": "725 W 630 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.285592,
+        "longitude": -111.712515,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1588,
+        "lotSize": 15682,
+        "yearBuilt": 1960,
+        "status": "Active",
+        "price": 549900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-09-23T09:16:25.749Z",
+        "lastSeenDate": "2025-06-02T12:15:50.885Z",
+        "daysOnMarket": 26,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2083363",
+        "listingAgent": {
+            "name": "Christine Alleman",
+            "phone": "8016876596",
+            "email": "christinehomes@hotmail.com",
+            "website": "http://www.buyautahhouse.com"
+        },
+        "listingOffice": {
+            "name": "Alliance Real Estate",
+            "phone": "8012229449",
+            "email": "alliance1800@gmail.com",
+            "website": "www.realtor.com/findhome/homelistings.asp"
+        },
+        "history": {
+            "2025-05-08": {
+                "event": "Sale Listing",
+                "price": 549900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 26
+            }
+        }
+    },
+    {
+        "id": "159-W-2040-S,-Orem,-UT-84058",
+        "formattedAddress": "159 W 2040 S, Orem, UT 84058",
+        "addressLine1": "159 W 2040 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.259809,
+        "longitude": -111.699376,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "squareFootage": 7320,
+        "lotSize": 22216,
+        "yearBuilt": 2026,
+        "status": "Active",
+        "price": 3100000,
+        "listingType": "New Construction",
+        "listedDate": "2025-05-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-13T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:56:46.261Z",
+        "daysOnMarket": 22,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2084308",
+        "listingAgent": {
+            "name": "Brett Henry",
+            "phone": "8016232518",
+            "email": "brett@househelputah.com",
+            "website": "http://www.simplechoicerealestate.com"
+        },
+        "listingOffice": {
+            "name": "Simple Choice Real Estate",
+            "phone": "8004761572",
+            "email": "brett@simplechoicerealestate.com",
+            "website": "www.simplechoicerealestate.com"
+        },
+        "history": {
+            "2025-05-12": {
+                "event": "Sale Listing",
+                "price": 3100000,
+                "listingType": "New Construction",
+                "listedDate": "2025-05-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 22
+            }
+        }
+    },
+    {
+        "id": "1038-W-1970-S,-Orem,-UT-84058",
+        "formattedAddress": "1038 W 1970 S, Orem, UT 84058",
+        "addressLine1": "1038 W 1970 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.261434,
+        "longitude": -111.71854,
+        "propertyType": "Townhouse",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2090,
+        "lotSize": 436,
+        "yearBuilt": 2019,
+        "hoa": {
+            "fee": 240
+        },
+        "status": "Active",
+        "price": 492000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-12-10T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:56:46.215Z",
+        "daysOnMarket": 21,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2053737",
+        "listingAgent": {
+            "name": "Teela Jensen",
+            "phone": "8012302644"
+        },
+        "listingOffice": {
+            "name": "Cannon & Company",
+            "phone": "8017538226"
+        },
+        "history": {
+            "2024-12-08": {
+                "event": "Sale Listing",
+                "price": 495000,
+                "listingType": "Standard",
+                "listedDate": "2024-12-08T00:00:00.000Z",
+                "removedDate": "2025-01-11T00:00:00.000Z",
+                "daysOnMarket": 34
+            },
+            "2025-05-13": {
+                "event": "Sale Listing",
+                "price": 492000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 21
+            }
+        }
+    },
+    {
+        "id": "1456-S-430-W,-Orem,-UT-84058",
+        "formattedAddress": "1456 S 430 W, Orem, UT 84058",
+        "addressLine1": "1456 S 430 W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.271043,
+        "longitude": -111.705538,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 996,
+        "lotSize": 1307,
+        "yearBuilt": 1999,
+        "hoa": {
+            "fee": 155
+        },
+        "status": "Active",
+        "price": 295000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-15T08:30:28.091Z",
+        "lastSeenDate": "2025-06-02T11:41:17.374Z",
+        "daysOnMarket": 19,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2085064",
+        "listingAgent": {
+            "name": "Heidi Hill",
+            "phone": "8018898643"
+        },
+        "listingOffice": {
+            "name": "Red Emerald Real Estate",
+            "phone": "8018898643"
+        },
+        "history": {
+            "2025-01-04": {
+                "event": "Sale Listing",
+                "price": 294900,
+                "listingType": "Standard",
+                "listedDate": "2025-01-04T00:00:00.000Z",
+                "removedDate": "2025-05-05T00:00:00.000Z",
+                "daysOnMarket": 121
+            },
+            "2025-05-15": {
+                "event": "Sale Listing",
+                "price": 295000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 19
+            }
+        }
+    },
+    {
+        "id": "450-W-Chokecherry-Cir,-Orem,-UT-84058",
+        "formattedAddress": "450 W Chokecherry Cir, Orem, UT 84058",
+        "addressLine1": "450 W Chokecherry Cir",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.293156,
+        "longitude": -111.706511,
+        "propertyType": "Single Family",
+        "bedrooms": 8,
+        "bathrooms": 2,
+        "squareFootage": 4121,
+        "lotSize": 8276,
+        "yearBuilt": 1974,
+        "hoa": {
+            "fee": 86
+        },
+        "status": "Active",
+        "price": 745000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-16T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:41:17.368Z",
+        "daysOnMarket": 19,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2085136",
+        "listingAgent": {
+            "name": "Lloyd D Weffer",
+            "phone": "8016043626",
+            "email": "andrew@utahbankowned.com"
+        },
+        "listingOffice": {
+            "name": "Re/Max Lighthouse",
+            "phone": "8019013773"
+        },
+        "history": {
+            "2025-05-15": {
+                "event": "Sale Listing",
+                "price": 745000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 19
+            }
+        }
+    },
+    {
+        "id": "224-S-Dry-Creek-Ln-W,-Vineyard,-UT-84058",
+        "formattedAddress": "224 S Dry Creek Ln W, Vineyard, UT 84058",
+        "addressLine1": "224 S Dry Creek Ln W",
+        "addressLine2": null,
+        "city": "Vineyard",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.292735,
+        "longitude": -111.750127,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3.5,
+        "squareFootage": 5427,
+        "lotSize": 10454,
+        "yearBuilt": 2015,
+        "status": "Active",
+        "price": 1125000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-17T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:41:17.334Z",
+        "daysOnMarket": 18,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2085510",
+        "listingAgent": {
+            "name": "Robert Morris",
+            "phone": "8016737678"
+        },
+        "listingOffice": {
+            "name": "John W. Hansen & Associates",
+            "phone": "8014791500",
+            "email": "jhansen@johnwhansen.com",
+            "website": "www.johnwhansen.com"
+        },
+        "history": {
+            "2025-05-16": {
+                "event": "Sale Listing",
+                "price": 1125000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 18
+            }
+        }
+    },
+    {
+        "id": "1162-W-230-S,-Orem,-UT-84058",
+        "formattedAddress": "1162 W 230 S, Orem, UT 84058",
+        "addressLine1": "1162 W 230 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.293301,
+        "longitude": -111.723205,
+        "propertyType": "Townhouse",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1506,
+        "lotSize": 871,
+        "yearBuilt": 1983,
+        "hoa": {
+            "fee": 194
+        },
+        "status": "Active",
+        "price": 385000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-04-09T10:27:51.639Z",
+        "lastSeenDate": "2025-06-02T11:37:02.706Z",
+        "daysOnMarket": 14,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2086239",
+        "listingAgent": {
+            "name": "Joseph Ellis"
+        },
+        "listingOffice": {
+            "name": "Flat Rate Homes",
+            "phone": "8014417283",
+            "email": "skamai@rehelpcenter.com",
+            "website": "http://www.flatratehomes.com"
+        },
+        "history": {
+            "2025-05-20": {
+                "event": "Sale Listing",
+                "price": 385000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "242-W-1100-S,-Orem,-UT-84058",
+        "formattedAddress": "242 W 1100 S, Orem, UT 84058",
+        "addressLine1": "242 W 1100 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.277401,
+        "longitude": -111.701178,
+        "propertyType": "Single Family",
+        "bedrooms": 6,
+        "bathrooms": 3,
+        "squareFootage": 4487,
+        "lotSize": 9583,
+        "yearBuilt": 1984,
+        "status": "Active",
+        "price": 795000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-21T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:37:02.693Z",
+        "daysOnMarket": 14,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2086156",
+        "listingAgent": {
+            "name": "Stacy Harmon",
+            "phone": "8017873373",
+            "email": "rlsharmon@msn.com"
+        },
+        "listingOffice": {
+            "name": "R and R Realty, LLC",
+            "phone": "8014927791",
+            "email": "mike@rowbury.com",
+            "website": "www.randrrealtyonline.com"
+        },
+        "history": {
+            "2025-05-20": {
+                "event": "Sale Listing",
+                "price": 795000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 14
+            }
+        }
+    },
+    {
+        "id": "1136-W-1810-S,-Orem,-UT-84058",
+        "formattedAddress": "1136 W 1810 S, Orem, UT 84058",
+        "addressLine1": "1136 W 1810 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.263971,
+        "longitude": -111.720883,
+        "propertyType": "Townhouse",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1502,
+        "lotSize": 2178,
+        "yearBuilt": 2021,
+        "hoa": {
+            "fee": 240
+        },
+        "status": "Active",
+        "price": 489000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-08T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:24:57.845Z",
+        "daysOnMarket": 11,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2087045",
+        "listingAgent": {
+            "name": "Jolie Breitling",
+            "phone": "8016715467"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate - Advantage",
+            "phone": "8015457416",
+            "email": "tony@joinequity-usa.com"
+        },
+        "history": {
+            "2024-09-07": {
+                "event": "Sale Listing",
+                "price": 475000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-07T00:00:00.000Z",
+                "removedDate": "2024-11-09T00:00:00.000Z",
+                "daysOnMarket": 63
+            },
+            "2025-05-23": {
+                "event": "Sale Listing",
+                "price": 489000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 11
+            }
+        }
+    },
+    {
+        "id": "776-S-Cherry-Dr-W,-Orem,-UT-84058",
+        "formattedAddress": "776 S Cherry Dr W, Orem, UT 84058",
+        "addressLine1": "776 S Cherry Dr W",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.283251,
+        "longitude": -111.711205,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 3334,
+        "lotSize": 9583,
+        "yearBuilt": 1955,
+        "status": "Active",
+        "price": 659900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-07-22T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:16:20.176Z",
+        "daysOnMarket": 5,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2087712",
+        "listingAgent": {
+            "name": "Shaun Allred",
+            "phone": "8013188250"
+        },
+        "listingOffice": {
+            "name": "Hallmark Real Estate Company of Utah",
+            "phone": "8015774806",
+            "email": "hallmarkrealestateco@gmail.com"
+        },
+        "history": {
+            "2025-05-29": {
+                "event": "Sale Listing",
+                "price": 659900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 5
+            }
+        }
+    },
+    {
+        "id": "1700-Sandhill-Rd,-Unit-H301,-Orem,-UT-84058",
+        "formattedAddress": "1700 Sandhill Rd, Unit H301, Orem, UT 84058",
+        "addressLine1": "1700 Sandhill Rd",
+        "addressLine2": "Unit H301",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.265716,
+        "longitude": -111.709732,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 790,
+        "lotSize": 871,
+        "yearBuilt": 2018,
+        "hoa": {
+            "fee": 120
+        },
+        "status": "Active",
+        "price": 269900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-02-17T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:02:09.629Z",
+        "daysOnMarket": 5,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2088075",
+        "listingAgent": {
+            "name": "Kellen Hill",
+            "phone": "8018354166"
+        },
+        "listingOffice": {
+            "name": "Realty Experts Inc",
+            "phone": "8019131385",
+            "email": "jerome@utahhomelistings.com",
+            "website": "www.utahhomelistings.com"
+        },
+        "history": {
+            "2025-05-29": {
+                "event": "Sale Listing",
+                "price": 269900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 5
+            }
+        }
+    },
+    {
+        "id": "1522-S-175-E,-Orem,-UT-84058",
+        "formattedAddress": "1522 S 175 E, Orem, UT 84058",
+        "addressLine1": "1522 S 175 E",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.269502,
+        "longitude": -111.6912,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 803,
+        "lotSize": 871,
+        "yearBuilt": 1994,
+        "hoa": {
+            "fee": 220
+        },
+        "status": "Active",
+        "price": 275000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-30T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T11:02:09.625Z",
+        "daysOnMarket": 5,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2087710",
+        "listingAgent": {
+            "name": "Caleb Metzger",
+            "phone": "8012097715",
+            "email": "calebrealestateutah@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Wise Choice Real Estate (Tooele County)",
+            "phone": "4352286392"
+        },
+        "history": {
+            "2025-05-29": {
+                "event": "Sale Listing",
+                "price": 275000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 5
+            }
+        }
+    },
+    {
+        "id": "314-W-1700-S,-Orem,-UT-84058",
+        "formattedAddress": "314 W 1700 S, Orem, UT 84058",
+        "addressLine1": "314 W 1700 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.266274,
+        "longitude": -111.702815,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 3215,
+        "lotSize": 8712,
+        "yearBuilt": 1980,
+        "status": "Active",
+        "price": 599000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-15T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T08:51:30.014Z",
+        "daysOnMarket": 3,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2088809",
+        "listingAgent": {
+            "name": "Laurie Gale",
+            "phone": "8012051600",
+            "email": "laurie@utahteam.com"
+        },
+        "listingOffice": {
+            "name": "Utah Realty",
+            "phone": "8012053500",
+            "email": "gales@utahteam.com",
+            "website": "www.utahrealtysource.com"
+        },
+        "history": {
+            "2023-08-14": {
+                "event": "Sale Listing",
+                "price": 625000,
+                "listingType": "Standard",
+                "listedDate": "2023-08-14T00:00:00.000Z",
+                "removedDate": "2025-02-22T00:00:00.000Z",
+                "daysOnMarket": 558
+            },
+            "2025-05-31": {
+                "event": "Sale Listing",
+                "price": 599000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "173-W-850-S,-Orem,-UT-84058",
+        "formattedAddress": "173 W 850 S, Orem, UT 84058",
+        "addressLine1": "173 W 850 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.281088,
+        "longitude": -111.699433,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2268,
+        "lotSize": 9583,
+        "yearBuilt": 1958,
+        "status": "Active",
+        "price": 499000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-05T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T08:51:30.008Z",
+        "daysOnMarket": 3,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2053316",
+        "listingAgent": {
+            "name": "Jenya Gunnell",
+            "phone": "5209400583",
+            "email": "jenya.gunnell@homie.com"
+        },
+        "listingOffice": {
+            "name": "Stratus Real Estate Solutions, LLC",
+            "phone": "8018672650"
+        },
+        "history": {
+            "2024-06-04": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-04T00:00:00.000Z",
+                "removedDate": "2024-11-24T00:00:00.000Z",
+                "daysOnMarket": 173
+            },
+            "2025-05-31": {
+                "event": "Sale Listing",
+                "price": 499000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "155-S-1200-W,-Unit-10,-Orem,-UT-84058",
+        "formattedAddress": "155 S 1200 W, Unit 10, Orem, UT 84058",
+        "addressLine1": "155 S 1200 W",
+        "addressLine2": "Unit 10",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.294192,
+        "longitude": -111.721852,
+        "propertyType": "Manufactured",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 865,
+        "yearBuilt": 1996,
+        "status": "Active",
+        "price": 79900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-02T08:51:30.004Z",
+        "daysOnMarket": 3,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2088803",
+        "listingAgent": {
+            "name": "Derrick Wademan",
+            "phone": "8013579712"
+        },
+        "listingOffice": {
+            "name": "Realtypath (South Valley)",
+            "phone": "8013865908",
+            "email": "cheryl.utahkey@gmail.com"
+        },
+        "history": {
+            "2025-05-31": {
+                "event": "Sale Listing",
+                "price": 79900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 3
+            }
+        }
+    },
+    {
+        "id": "23-E-600-S,-Orem,-UT-84058",
+        "formattedAddress": "23 E 600 S, Orem, UT 84058",
+        "addressLine1": "23 E 600 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.286197,
+        "longitude": -111.694704,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 825,
+        "lotSize": 436,
+        "yearBuilt": 1979,
+        "hoa": {
+            "fee": 200
+        },
+        "status": "Active",
+        "price": 269000,
+        "listingType": "Standard",
+        "listedDate": "2024-11-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-11-14T00:00:00.000Z",
+        "lastSeenDate": "2025-06-01T13:07:02.613Z",
+        "daysOnMarket": 201,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2044430",
+        "listingAgent": {
+            "name": "Corey Larsen",
+            "phone": "7028839696",
+            "email": "clarsen606@hotmail.com"
+        },
+        "listingOffice": {
+            "name": "Equity Real Estate (Solid)",
+            "phone": "8012085872"
+        },
+        "history": {
+            "2024-11-13": {
+                "event": "Sale Listing",
+                "price": 269000,
+                "listingType": "Standard",
+                "listedDate": "2024-11-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 201
+            }
+        }
+    },
+    {
+        "id": "426-E-1910-S,-Orem,-UT-84058",
+        "formattedAddress": "426 E 1910 S, Orem, UT 84058",
+        "addressLine1": "426 E 1910 S",
+        "addressLine2": null,
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.26197,
+        "longitude": -111.684579,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1410,
+        "lotSize": 8276,
+        "yearBuilt": 1950,
+        "status": "Active",
+        "price": 525000,
+        "listingType": "Standard",
+        "listedDate": "2025-04-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-18T13:12:49.397Z",
+        "lastSeenDate": "2025-06-01T12:26:52.531Z",
+        "daysOnMarket": 51,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2077154",
+        "listingAgent": {
+            "name": "Kyla Muir",
+            "phone": "8017879540",
+            "email": "kylamuirrealty@gmail.com",
+            "website": "https://www.instagram.com/kylamuirrealty/"
+        },
+        "listingOffice": {
+            "name": "Real Estate Essentials",
+            "phone": "8014728800",
+            "email": "jaydeher@outlook.com"
+        },
+        "history": {
+            "2025-04-12": {
+                "event": "Sale Listing",
+                "price": 525000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 51
+            }
+        }
+    },
+    {
+        "id": "314-W-1700-S,-Unit-30,-Orem,-UT-84058",
+        "formattedAddress": "314 W 1700 S, Unit 30, Orem, UT 84058",
+        "addressLine1": "314 W 1700 S",
+        "addressLine2": "Unit 30",
+        "city": "Orem",
+        "state": "UT",
+        "zipCode": "84058",
+        "county": "Utah",
+        "latitude": 40.266274,
+        "longitude": -111.702815,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 3215,
+        "lotSize": 8712,
+        "yearBuilt": 1980,
+        "status": "Active",
+        "price": 599000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-01T00:00:00.000Z",
+        "lastSeenDate": "2025-06-01T08:25:06.442Z",
+        "daysOnMarket": 2,
+        "mlsName": "UtahRealEstate",
+        "mlsNumber": "2088809",
+        "listingAgent": {
+            "name": "Laurie Gale",
+            "phone": "8012051600",
+            "email": "laurie@utahteam.com"
+        },
+        "listingOffice": {
+            "name": "Utah Realty",
+            "phone": "8012053500",
+            "email": "gales@utahteam.com",
+            "website": "www.utahrealtysource.com"
+        },
+        "history": {
+            "2025-05-31": {
+                "event": "Sale Listing",
+                "price": 599000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 2
+            }
+        }
+    }
+]
